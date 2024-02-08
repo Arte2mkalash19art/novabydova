@@ -5,7 +5,7 @@
     rgb(45, 42, 34) -40.469%,
     rgb(126, 109, 83) 129.687%
   );
-  padding: 25px 20px;
+  padding: 25px 23px;
   display: flex;
   @media screen and (min-width: 768px) {
     padding-top: 33px;
@@ -126,7 +126,7 @@
   justify-content: flex-end;
   width: 18px;
   height: 16px;
-  margin-left: 225px;
+  margin-left: auto;
   margin-top: 9px;
 }
 
@@ -171,8 +171,9 @@
     display: none;
     flex-direction: column;
     position: fixed;
+    align-items: center;
     height: 100%;
-    width: 480px;
+    width: 100%;
     top: 0;
     bottom: 0;
     left: 0;
