@@ -215,8 +215,8 @@
   letter-spacing: 2%;
   text-align: center;
 }
-.list__menu:hover,
-.list__menu:focus {
-  color: rgb(33, 150, 243);
+.menu-link:focus,
+.menu-link:hover {
+  color: #000;
 }
 
