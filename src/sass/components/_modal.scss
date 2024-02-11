@@ -1,0 +1,71 @@
+.backdrop {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #00000033;
+    z-index: 2;
+}
+.backdrop.is-hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 12px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px 20px;
+}
+.modal-form-field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.modal-form-field-input {
+    height: 50px;
+    width: 100%;
+    border: 1px solid #35322D;
+    border-radius: 16px;
+    padding-left: 15px;
+}
+.modal-form-field-input::placeholder{
+    font-family:$third-family;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17.07px;
+    color: #999EA3;
+}
+.modal-form-field-label{
+    font-family:$third-family ;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19.5px;
+    margin-bottom: 4px;
+    text-align: left;
+}
+.hero-modal-title{
+    font-family: $third-family;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.38px;
+    width: 280px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.hero-modal-button{
+    font-family: $font-family;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    width: 192px;
+    height: 48px;
+    border-radius: 8px;
+    border: 0;
+    margin-top: 10px;
+    background-color:$maincolor;
+    color:$secondry-color;
+}

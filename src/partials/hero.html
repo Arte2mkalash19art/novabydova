@@ -1,10 +1,32 @@
 <div class="hero">
     <div class="contaier">
         <h1 class="hero-title">Nice view</h1>
-        <p class="hero-text">For your comfortable life with your family</p>
-        <button type="button" class="hero-button">Contact us</button>
+        <p class="hero-text">For your comfortablev <br> life with your family</p>
+        <button type="button" class="hero-button" data-modal-open>Contact us</button>
     </div>
-    <div class="hero-modal">
-
+    <div class="backdrop is-hidden" data-backdrop>
+        <div class="modal">
+            <button type="button" >
+                <!-- <svg class="icon-close-btn" width="11" height="11" data-modal-close>
+                    <use href="./icons/symbol-defs.svg#icon-cross"></use>
+                </svg> -->
+            </button>
+            <h2 class="hero-modal-title">Leave your contacts and we will contact you</h2>
+            <form autocomplete="on" >
+                <div class="modal-form-field">
+                    <label class="modal-form-field-label" for="name">Name</label>
+                    <input class="modal-form-field-input" placeholder="Yuliia" type="text" id="name" name="name">
+                </div>
+                <div class="modal-form-field">
+                    <label for="email" class="modal-form-field-label">Telephone</label>
+                    <input class="modal-form-field-input" placeholder="+380" type="text" id="password" name="email">
+                </div>
+                <div class="modal-form-field">
+                    <label class="modal-form-field-label" for="password">Email</label>
+                    <input class="modal-form-field-input" placeholder="Contact@gmail.com" type="text" id="email" name="password">
+                </div>
+                <button type="submit" class="hero-modal-button">Contact us</button>
+            </form>
+        </div>
     </div>
 </div>

@@ -30,9 +30,31 @@ button {
   padding: 0;
 }
 
+.contaier {
+  max-width: 270px;
+  margin: 0 auto;
+}
+
+.hero {
+  max-width: 320px;
+  padding-top: 15px;
+  padding-bottom: 60px;
+}
+
 .hero-title {
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 48px;
   line-height: 72px;
+  width: 228px;
+  color: #7E6D53;
+}
+
+.hero-text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  width: 184px;
   color: #7E6D53;
 }/*# sourceMappingURL=index.css.map */
