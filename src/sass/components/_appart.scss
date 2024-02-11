@@ -30,6 +30,7 @@
   .apart-item:hover,
   .apart-item:focus {
     outline: 2px solid $maincolor;
+    cursor: pointer;
   }
   .apart-item {
     width: 280px;
@@ -56,7 +57,7 @@
       font-weight: 400;
       font-size: 28px;
       line-height: 120%;
-      color: #2d2a22;
+      color: $plimal-color;
 
       @media screen and (min-width: 768px) {
         font-size: 32px;
