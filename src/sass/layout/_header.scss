@@ -117,7 +117,7 @@
 .burger {
   display: none;
   position: relative;
-  z-index: 50;
+  z-index: 2;
   align-items: center;
   justify-content: flex-end;
   width: 18px;
@@ -174,7 +174,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    z-index: 50;
+    z-index: 2;
     overflow-y: auto;
     padding: 80px 110px;
     background: linear-gradient(
@@ -210,4 +210,3 @@
 .menu-link:hover {
   color: #000;
 }
-
