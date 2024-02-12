@@ -1,0 +1,115 @@
+.modal {
+  position: fixed;
+  z-index: 2;
+  left: 0;
+  top: 0;
+  background-color: $secondry-color;
+  padding: 32px 40px;
+  width: 100vw;
+  height: 100vh;
+  display: none;
+
+  @media screen and (min-width: 768px) {
+    width: 571px;
+    height: 355px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 60px 60px rgba(0, 0, 0, 0.2);
+  }
+
+  .modal-content {
+    margin: 0 auto;
+    max-width: 240px;
+
+    @media screen and (min-width: 768px) {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      max-width: 482px;
+      height: 260px;
+    }
+  }
+  .close {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    color: #aaa;
+    font-size: 36px;
+
+    &:hover,
+    &:focus {
+      color: black;
+      text-decoration: none;
+      cursor: pointer;
+    }
+  }
+
+  .modal-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 28px;
+    color: $plimal-color;
+    margin-bottom: 32px;
+
+    @media screen and (min-width: 768px) {
+      margin-bottom: 32px;
+    }
+  }
+
+  .apart-image {
+    display: block;
+    margin: 0 auto 22px;
+
+    @media screen and (min-width: 768px) {
+      display: inline-block;
+      margin: 0 50px 0 0;
+    }
+  }
+
+  .modal-text-item {
+    font-size: 20px;
+    color: $plimal-color;
+
+    &:nth-child(2) {
+      margin: 4px 0 12px;
+    }
+    &:nth-child(4) {
+      margin-top: 8px;
+    }
+
+    .modal-text-item__color,
+    .prise {
+      font-weight: 400;
+      color: $maincolor;
+    }
+    .prise {
+      font-weight: 500;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .modal-text-appart {
+    width: 210px;
+  }
+}
+
+.contact-us-button {
+  display: inline-block;
+  margin-top: 26px;
+  width: 192px;
+  height: 48px;
+  text-align: center;
+  background-color: $maincolor;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+
+  @media screen and (min-width: 768px) {
+    margin-top: 18px;
+  }
+}
