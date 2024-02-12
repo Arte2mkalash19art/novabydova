@@ -1,38 +1,129 @@
 //!hero
-.hero{
-    background-image: url('../images/mobile/hero-mb.jpg');
-    max-width: 320px;
-    padding-top: 15px;
-    padding-bottom: 60px;
-    text-align: center;
-    margin: 0 auto;
-}
+.hero {
+  background-image: url('../images/mobile/hero-mb.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+//   max-width: 320px;
+    width: 100%;    
+  padding-top: 15px;
+  padding-bottom: 60px;
+  text-align: center;
+  margin: 0 auto;
 
-.hero-title{
-    font-family: $font-family;
-    font-weight: 400;
-    font-size: 48px;
-    line-height: 72px;
-    // width: 228px;
-    color:$maincolor;
+  @media screen and (min-width: 768px) {
+    background-image: url('../images/tablet/hero-tb.jpg');
+    // max-width: 768px;
+    width: 100%; 
+    padding-top: 32px;
+    padding-bottom: 100px;
+  }
+  @media screen and (min-width: 1280px) {
+    background-image: url('../images/dasktop/hero-dt.jpg');
+    // max-width: 1280px;
+    width: 100%; 
+    padding-top: 32px;
+    padding-bottom: 100px;
+  }
 }
-.hero-text{
-    font-family: $font-family;
-    font-weight: 300;
-    font-size: 16px;
-    line-height: 24px;
-    // width: 184px;
-    margin-bottom: 247px;
-    color:$maincolor;
+.hero-title {
+  font-family: $font-family;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  // width: 228px;
+  color: $maincolor;
+
+  @media screen and (min-width: 768px) {
+    font-size: 72px;
+    line-height: 108px;
+  }
 }
-.hero-button{
-    font-family: $font-family;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 30px;
-    border: 0;
-    border-radius: 16px;
-    width: 200px;
-    height: 50px;
-    background-color:$secondry-color;
+.hero-text {
+  font-family: $font-family;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  // width: 184px;
+  margin-bottom: 247px;
+  color: $maincolor;
+
+  @media screen and (min-width: 768px) {
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 383px;
+  }
+}
+.hero-button {
+  font-family: $font-family;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  border: 0;
+  border-radius: 16px;
+  width: 200px;
+  height: 50px;
+  background-color: $secondry-color;
+
+  @media screen and (min-width: 768px) {
+    width: 256px;
+    height: 54px;
+    font-size: 24px;
+    line-height: 36px;
+  }
+}
+.hero-list-svg {
+  display: flex;
+  position: absolute;
+  justify-content: space-between;
+//   width: 290px;
+    bottom: 90px;
+    width: 90.625%;
+    // padding: 0 15px;
+//   left: 15px;
+    left: 4.7%; 
+
+  @media screen and (min-width: 768px) {
+    // width: 580px;
+    bottom: 100px;
+    width: 75.5%;
+    // padding: 0 90px;
+    // left: 90px;
+    left: 13%;
+  }
+  @media screen and (min-width: 1280px) {
+    // width: 1050px;
+    bottom: 100px;
+    width: 87.5%;
+    // padding: 0 100px;
+    // left: 100px;
+    left: 8%;
+  }
+}
+.hero-icon-persons {
+  width: 44px;
+  height: 49px;
+
+  @media screen and (min-width: 768px) {
+    width: 85px;
+    height: 95px;
+  }
+  @media screen and (min-width: 1280px) {
+    width: 146px;
+    height: 163px;
+  }
+}
+.hero-icon-pavan {
+  width: 24px;
+  height: 52px;
+
+  @media screen and (min-width: 768px) {
+    width: 57px;
+    height: 119px;
+  }
+  @media screen and (min-width: 1280px) {
+    width: 88px;
+    height: 185px;
+  }
 }

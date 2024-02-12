@@ -1,4 +1,11 @@
 .contaier{
     max-width: 270px;
     margin: 0 auto;
+
+    @media screen and (min-width: 768px) {
+        max-width: 704px;
+  }
+    @media screen and (min-width: 1280px) {
+        max-width: 1140px;
+  }
 }
