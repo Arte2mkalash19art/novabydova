@@ -3,11 +3,15 @@ document.addEventListener('DOMContentLoaded', function () {
     element.addEventListener('click', function () {
       const targetModalId = this.getAttribute('data-target');
       openModal(targetModalId);
+      document.querySelector('.modal-overlay').classList.add('modal-open');
     });
   });
 
   document.querySelectorAll('.modal .close').forEach(function (element) {
-    element.addEventListener('click', closeModal);
+    element.addEventListener('click', function () {
+      closeModal();
+      document.querySelector('.modal-overlay').classList.remove('modal-open');
+    });
   });
 });
 
