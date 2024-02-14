@@ -1,2 +1,0 @@
-function openModal(e){document.querySelector(e).style.display="block"}function closeModal(){document.querySelectorAll(".modal").forEach((function(e){e.style.display="none"}))}document.addEventListener("DOMContentLoaded",(function(){document.querySelectorAll(".open-modal").forEach((function(e){e.addEventListener("click",(function(){openModal(this.getAttribute("data-target"))}))})),document.querySelectorAll(".modal .close").forEach((function(e){e.addEventListener("click",closeModal)}))}));
-//# sourceMappingURL=index.673cf8a7.js.map
