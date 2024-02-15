@@ -3,7 +3,9 @@
     padding: 60px 0;
     text-align: center;
     background-color:  #EDE9E3;
-;
+    @media screen and(min-width:768px){
+        padding: 100px 0;
+    }
 }
 .contacts-title{
     font-family:$font-family;
@@ -12,6 +14,10 @@
     line-height: 42px;
     color:$maincolor;
     margin-bottom: 10px;
+    @media screen and(min-width:768px){
+        font-size: 40px;
+        line-height: 60px;
+    }
 }
 .contacts-text{
     font-family:$font-family;
@@ -20,35 +26,58 @@
     line-height: 30px;
     color:$maincolor;
     margin-bottom: 25px;
+    @media screen and(min-width:768px){
+        font-size: 24px;
+        line-height: 36px;
+    }
 }
 .wrapper{
     display: flex;
     flex-direction: column;
+    width: 280px;
     text-align: start;
+    align-items: center;
     background-color:$maincolor;
     border-radius: 16px;
     padding: 25px 20;
+    margin: 0 auto;
+    @media screen and(min-width:768px){
+        flex-direction: row;
+        width: 700px;
+        padding: 53px 74;
+        gap:70px;
+    }
 }
+
 .contacts-list{
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 25px;
 }
 
 .contacts-list-item{
-
+    cursor: pointer;
 }
 
 .contacts-link{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    gap: 8px;
     font-family:$font-family;
     font-weight: 300;
     font-size: 14px;
     line-height: 21px;
     color:#ffffffa6;
+    @media screen and(min-width:768px){
+        font-size: 16px;
+        line-height: 24px;
+    }
 }
 .contacts-icons{
     fill:#ffffffa6 ;
-    margin-right:5px;
+    width: 24px;
+    height: 24px;
 }
 .contacts-button{
     font-family:$font-family;
@@ -62,4 +91,12 @@
     border: none;
     background-color: #FCFCFB;
     margin-top: 20px;
+    cursor: pointer;
+    @media screen and(min-width:768px){
+        font-size: 24px;
+        line-height: 36px;
+        width: 224px;
+        height: 54px;
+        margin: 0;
+    }
 }
