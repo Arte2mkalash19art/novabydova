@@ -6,7 +6,7 @@
   background-size: cover;
   position: relative;
 //   max-width: 320px;
-    width: 100%;    
+  width: 100%;    
   padding-top: 15px;
   padding-bottom: 60px;
   text-align: center;
@@ -73,57 +73,4 @@
     line-height: 36px;
   }
 }
-.hero-list-svg {
-  display: flex;
-  position: absolute;
-  justify-content: space-between;
-//   width: 290px;
-    bottom: 90px;
-    width: 90.625%;
-    // padding: 0 15px;
-//   left: 15px;
-    left: 4.7%; 
 
-  @media screen and (min-width: 768px) {
-    // width: 580px;
-    bottom: 100px;
-    width: 75.5%;
-    // padding: 0 90px;
-    // left: 90px;
-    left: 13%;
-  }
-  @media screen and (min-width: 1280px) {
-    // width: 1050px;
-    bottom: 100px;
-    width: 87.5%;
-    // padding: 0 100px;
-    // left: 100px;
-    left: 8%;
-  }
-}
-.hero-icon-persons {
-  width: 44px;
-  height: 49px;
-
-  @media screen and (min-width: 768px) {
-    width: 85px;
-    height: 95px;
-  }
-  @media screen and (min-width: 1280px) {
-    width: 146px;
-    height: 163px;
-  }
-}
-.hero-icon-pavan {
-  width: 24px;
-  height: 52px;
-
-  @media screen and (min-width: 768px) {
-    width: 57px;
-    height: 119px;
-  }
-  @media screen and (min-width: 1280px) {
-    width: 88px;
-    height: 185px;
-  }
-}
