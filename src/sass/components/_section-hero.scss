@@ -1,12 +1,10 @@
-//!hero
 .hero {
   background-image: url('../images/mobile/hero-mb.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-//   max-width: 320px;
-  width: 100%;    
+  width: 100%;
   padding-top: 15px;
   padding-bottom: 60px;
   text-align: center;
@@ -14,25 +12,21 @@
 
   @media screen and (min-width: 768px) {
     background-image: url('../images/tablet/hero-tb.jpg');
-    // max-width: 768px;
-    width: 100%; 
+    width: 100%;
     padding-top: 32px;
     padding-bottom: 100px;
   }
   @media screen and (min-width: 1280px) {
     background-image: url('../images/dasktop/hero-dt.jpg');
-    // max-width: 1280px;
-    width: 100%; 
+    width: 100%;
     padding-top: 32px;
     padding-bottom: 100px;
   }
 }
 .hero-title {
-  font-family: $font-family;
   font-weight: 400;
   font-size: 48px;
   line-height: 72px;
-  // width: 228px;
   color: $maincolor;
 
   @media screen and (min-width: 768px) {
@@ -41,11 +35,8 @@
   }
 }
 .hero-text {
-  font-family: $font-family;
-  font-weight: 300;
   font-size: 16px;
   line-height: 24px;
-  // width: 184px;
   margin-bottom: 247px;
   color: $maincolor;
 
@@ -56,8 +47,6 @@
   }
 }
 .hero-button {
-  font-family: $font-family;
-  font-weight: 300;
   font-size: 20px;
   line-height: 30px;
   border: 0;
@@ -74,4 +63,3 @@
     line-height: 36px;
   }
 }
-
