@@ -1,5 +1,5 @@
-.backdrop {
-  transition: opacity 500ms cubic-bezier(0.17, 0.67, 0.69, 0.93) 500ms;
+.backdrop-contact {
+  transition: opacity 100ms cubic-bezier(0.17, 0.67, 0.69, 0.93) 200ms;
   position: fixed;
   top: 0;
   right: 0;
@@ -8,9 +8,9 @@
   background-color: #00000033;
 }
 
-.modal {
+.modal-contact {
   transform: translate(-50%, -50%);
-  transition: opacity 100ms cubic-bezier(0.17, 0.67, 0.69, 0.93) 200ms;
+  transition: opacity 50ms cubic-bezier(0.17, 0.67, 0.69, 0.93) 50ms;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -40,7 +40,7 @@
   background-color: #fff;
 }
 
-.backdrop.is-hidden {
+.backdrop-contact.is-hidden {
   opacity: 0;
   pointer-events: none;
 }
