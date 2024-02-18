@@ -1,13 +1,16 @@
 .Infrastructure {
+
   background-color: rgb(237, 233, 227);
-  height: 558px;
+  height: 557px;
   @media screen and (min-width: 768px) {
     height: 670px;
   }
 }
 
 .container-infra {
+  position: relative;
   padding-left: 0;
+  margin: 0;
 }
 
 .text-infrastructure {
@@ -22,26 +25,40 @@
     font-size: 40px;
     line-height: 60px;
   }
+  @media screen and (min-width: 1280px) {
+    padding: 100px 0 20px 68px;
+  }
 }
 
 .fon {
   width: 100%;
-  position: relative;;
   background-size: cover;
+  align-items: center;
   background-image: url(/src/images/mobile/infrastructure-mb.jpg);
   min-width: 320px;
   height: 431px;
   background-repeat: no-repeat;
   padding: 40px 20px;
   @media screen and (min-width: 768px) {
+    width: 100%;
     background-image: url(/src/images/tablet/infrastructure-tb.jpg);
     min-width: 768px;
     height: 486px;
     padding: 8px 37px 8px 0;
   }
+  @media screen and (min-width: 1280px) {
+    width: 100%;
+    background-image: url(/src/images/dasktop/infrastructure-dt.jpg);
+    min-width: 1144px;
+    width: 1144px;
+    height: 486px;
+    margin-left: auto;
+    margin: 8px 68px 8px 68px;
+  }
 }
 
 .fon-infrasrtructure {
+  margin: 0 auto;
   align-items: center;
   width: 280px;
   height: 351px;
@@ -50,13 +67,27 @@
   border-radius: 8px;
   padding: 24px 18px;
   @media screen and (min-width: 768px) {
-   margin-left: auto;
+    position: absolute;
+    margin-left: auto;
+    width: 331px;
+    height: 470px;
+    padding: 24px 32px;
+    right: 37px; 
+  }
+  @media screen and (min-width: 1280px) {
+    right: 168px;
   }
 }
 
 .list-menu-text {
   display: flex;
   column-gap: 5px;
+}
+
+.list-menu-text + .list-menu-text {
+  @media screen and (min-width: 768px) {
+    margin-top: 60px;
+  }
 }
 
 .list-item-text {
@@ -76,6 +107,10 @@
   line-height: 21px;
   letter-spacing: 0%;
   text-align: center;
+  @media screen and (min-width: 768px) {
+    font-size: 16px;
+    line-height: 24px;
+  }
 }
 
 .list-text {
@@ -86,7 +121,20 @@
   line-height: 21px;
   text-align: center;
   margin-top: 40px;
+  @media screen and (min-width: 768px) {
+    font-size: 16px;
+    line-height: 24px;
+  }
 }
 .list-text-2 {
   padding-right: 11px;
+  @media screen and (min-width: 768px) {
+    padding-right: 9px;
+  }
+}
+
+.list-text-1 {
+  @media screen and (min-width: 768px) {
+    padding-left: 6px;
+  }
 }
