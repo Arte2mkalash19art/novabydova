@@ -39,6 +39,10 @@
   right: 10px;
   background-color: #fff;
   cursor: pointer;
+
+  &:hover {
+    fill: #7e6d53;
+  }
 }
 
 .backdrop-contact.is-hidden {
@@ -139,6 +143,10 @@
     line-height: 20px;
     margin-bottom: 12px;
   }
+
+  .label-necessarily {
+    color: red;
+  }
 }
 
 .send-btn {
@@ -156,6 +164,7 @@
   letter-spacing: 0%;
   text-align: center;
   margin: 40px 155px;
+  cursor: pointer;
   @media screen and (min-width: 320px) {
     margin: 30px 64px;
     width: 192px;
