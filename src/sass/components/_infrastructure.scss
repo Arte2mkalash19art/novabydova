@@ -1,5 +1,4 @@
 .Infrastructure {
-
   background-color: rgb(237, 233, 227);
   height: 557px;
   @media screen and (min-width: 768px) {
@@ -47,12 +46,10 @@
     padding: 8px 37px 8px 0;
   }
   @media screen and (min-width: 1280px) {
-    width: 100%;
     background-image: url(/src/images/dasktop/infrastructure-dt.jpg);
     min-width: 1144px;
     width: 1144px;
     height: 486px;
-    margin-left: auto;
     margin: 8px 68px 8px 68px;
   }
 }
@@ -72,16 +69,18 @@
     width: 331px;
     height: 470px;
     padding: 24px 32px;
-    right: 37px; 
+    right: 37px;
   }
   @media screen and (min-width: 1280px) {
-    right: 168px;
   }
 }
 
 .list-menu-text {
   display: flex;
-  column-gap: 5px;
+  column-gap: 7px;
+  @media screen and (min-width: 768px) {
+    column-gap: 14px;
+  }
 }
 
 .list-menu-text + .list-menu-text {
@@ -124,17 +123,5 @@
   @media screen and (min-width: 768px) {
     font-size: 16px;
     line-height: 24px;
-  }
-}
-.list-text-2 {
-  padding-right: 11px;
-  @media screen and (min-width: 768px) {
-    padding-right: 9px;
-  }
-}
-
-.list-text-1 {
-  @media screen and (min-width: 768px) {
-    padding-left: 6px;
   }
 }
