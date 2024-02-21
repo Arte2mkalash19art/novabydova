@@ -9,7 +9,11 @@
 .container-infra {
   position: relative;
   padding-left: 0;
-  margin: 0;
+  @media screen and (min-width: 1280px) {
+    max-width: 1280px;
+    padding: 0 68px;
+    margin: 0 auto;
+  }
 }
 
 .text-infrastructure {
@@ -51,6 +55,7 @@
     width: 1144px;
     height: 486px;
     margin: 8px 68px 8px 68px;
+    margin: 0 auto;
   }
 }
 
@@ -72,6 +77,8 @@
     right: 37px;
   }
   @media screen and (min-width: 1280px) {
+    position: relative;
+    left: 388px;
   }
 }
 
