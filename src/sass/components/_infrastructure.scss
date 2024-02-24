@@ -33,7 +33,7 @@
   }
 }
 
-.fon {
+.background-fon {
   width: 100%;
   background-size: cover;
   align-items: center;
@@ -86,10 +86,9 @@
   display: flex;
   column-gap: 7px;
   @media screen and (min-width: 768px) {
-    column-gap: 14px;
+    column-gap: 11px;
   }
 }
-
 .list-menu-text + .list-menu-text {
   @media screen and (min-width: 768px) {
     margin-top: 60px;
@@ -103,7 +102,9 @@
   align-items: center;
   padding-top: 15px;
   border-radius: 50px;
+  margin-left: auto;
 }
+
 
 .item-text {
   color: #000000;
