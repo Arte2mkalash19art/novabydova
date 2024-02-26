@@ -25,7 +25,7 @@
   cursor: pointer;
   font-weight: 400;
   font-size: 14px;
-  color: #fff;
+  color: $secondry-color;
   transition: all 0.5s;
 }
 .list-text:hover {
@@ -41,7 +41,7 @@
 .title-list-text {
   font-weight: 600;
   font-size: 18px;
-  color: #fff;
+  color: $secondry-color;
 }
 .social-footer-list {
   display: flex;
@@ -58,7 +58,7 @@
   border-radius: 20px;
 }
 .social-footer-item:hover {
-  background-color: #2d2a22;
+  background-color: $plimal-color;
 }
 .Privacy-footer-text {
   padding-top: 10px;
