@@ -1,10 +1,9 @@
 .benefits {
+  margin: 100px 0;
   position: relative;
   height: 800px;
-  padding: 61px 0;
   font-weight: 400;
   font-size: 16px;
-  background-color: #ede9e3;
   background-image: url(../images/mobile/benefits-mb.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -17,7 +16,6 @@
     background-image: url(../images/mobile/benefits-mb@2x.jpg);
   }
   @media screen and (min-width: 768px) {
-    padding: 85px 0;
     background-image: url(../images/tablet/benefits-tb.jpg);
     @media (min-device-pixel-ratio: 2),
       (min-resolution: 192dpi),

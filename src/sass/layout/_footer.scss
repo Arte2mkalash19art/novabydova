@@ -21,14 +21,14 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.list-text {
+.list-text-footer {
   cursor: pointer;
   font-weight: 400;
   font-size: 14px;
   color: $secondry-color;
   transition: all 0.5s;
 }
-.list-text:hover {
+.list-text-footer:hover {
   color: #837c73;
 }
 .contact-footer-list {
