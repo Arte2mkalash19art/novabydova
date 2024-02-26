@@ -75,7 +75,7 @@
 60D:\It\novabydova\node_modules\domutils\lib\manipulation.d.ts133512021265070630 0
 63D:\It\novabydova\node_modules\@swc\helpers\src\_create_super.js133512021272161750 0
 28D:\It\novabydova\.prettierrc133512016583666087 0
-41D:\It\novabydova\src\partials\header.html133534366041483590 0
+41D:\It\novabydova\src\partials\header.html133534448709798071 0
 53D:\It\novabydova\src\images\mobile\benefits-mb@3x.jpg133534343601640102 0
 28D:\It\novabydova\.htmlnanorc133512016583655957 0
 80D:\It\novabydova\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133512021269115548 0
@@ -85,12 +85,12 @@
 24D:\It\novabydova\.sassrc133512016583666087 0
 104D:\It\novabydova\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed\package.json133512021268431241 0
 23D:\It\novabydova\assets133512016583816201 1
-43D:\It\novabydova\src\partials\contacts.html133534343602856397 0
+43D:\It\novabydova\src\partials\contacts.html133534442563194789 0
 57D:\It\novabydova\node_modules\@parcel\transformer-postcss133512021262721151 1
 62D:\It\novabydova\node_modules\css-what\lib\commonjs\index.d.ts133512021264640788 0
 70D:\It\novabydova\node_modules\type-fest\source\fixed-length-array.d.ts133512021264050282 0
 70D:\It\novabydova\node_modules\@parcel\reporter-cli\src\bundleReport.js133512021257841165 0
-21D:\It\novabydova\dist133534366043852457 1
+21D:\It\novabydova\dist133534448711203414 1
 48D:\It\novabydova\node_modules\@parcel\utils\test133512021275922907 1
 51D:\It\novabydova\src\sass\components\_contacts.scss133534343602876405 0
 75D:\It\novabydova\node_modules\dom-serializer\node_modules\entities\lib\maps133512021262376298 1
@@ -104,7 +104,7 @@
 61D:\It\novabydova\node_modules\caniuse-lite\data\regions\VG.js133512021284842978 0
 55D:\It\novabydova\node_modules\htmlnano\docs\sidebars.js133512021266373493 0
 41D:\It\novabydova\node_modules\htmlparser2133512021263224995 1
-49D:\It\novabydova\src\partials\infrastructure.html133534343602876405 0
+49D:\It\novabydova\src\partials\infrastructure.html133534372379057728 0
 34D:\It\novabydova\package-lock.json133528424638734534 0
 45D:\It\novabydova\src\sass\layout\_header.scss133534365950148635 0
 77D:\It\novabydova\node_modules\@parcel\fs-search\fs-search.linux-x64-musl.node133512021269660548 0
@@ -125,7 +125,7 @@
 82D:\It\novabydova\node_modules\@swc\helpers\src\_class_private_field_destructure.js133512021271856850 0
 29D:\It\novabydova\README.en.md133512016583676108 0
 75D:\It\novabydova\node_modules\@jridgewell\gen-mapping\dist\types\types.d.ts133512021262927455 0
-43D:\It\novabydova\src\sass\utils\_reset.scss133516288709831027 0
+43D:\It\novabydova\src\sass\utils\_reset.scss133534454932228576 0
 46D:\It\novabydova\node_modules\error-ex\LICENSE133512021256978720 0
 42D:\It\novabydova\node_modules\resolve-from133512021257202281 1
 93D:\It\novabydova\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\package.json133512021265767017 0
@@ -155,7 +155,7 @@
 83D:\It\novabydova\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js133512021284600149 0
 50D:\It\novabydova\node_modules\tslib\tslib.es6.html133512021253443534 0
 48D:\It\novabydova\node_modules\fclone\fclone.d.ts133512021261031917 0
-41D:\It\novabydova\src\partials\appart.html133534343602846404 0
+41D:\It\novabydova\src\partials\appart.html133534443330138177 0
 109D:\It\novabydova\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\browser.js133512021264304578 0
 45D:\It\novabydova\node_modules\lmdb\caching.js133512021272409968 0
 86D:\It\novabydova\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.js133512021272041135 0
@@ -195,7 +195,7 @@
 26D:\It\novabydova\src\icons133534343600589543 1
 61D:\It\novabydova\node_modules\caniuse-lite\data\regions\ST.js133512021283629949 0
 52D:\It\novabydova\node_modules\nth-check\lib\index.js133512021258890671 0
-31D:\It\novabydova\src\index.html133534350063712237 0
+31D:\It\novabydova\src\index.html133534405906916160 0
 23D:\It\novabydova\src\js133534343602836414 1
 53D:\It\novabydova\node_modules\mdn-data\css\types.json133512021266433523 0
 42D:\It\novabydova\node_modules\import-fresh133512021258126852 1
@@ -217,7 +217,7 @@
 55D:\It\novabydova\node_modules\posthtml-render\readme.md133512021259009506 0
 81D:\It\novabydova\node_modules\@swc\helpers\src\_class_extract_field_descriptor.js133512021271802848 0
 61D:\It\novabydova\node_modules\caniuse-lite\data\regions\JP.js133512021279158180 0
-49D:\It\novabydova\src\sass\components\_appart.scss133534360682096659 0
+49D:\It\novabydova\src\sass\components\_appart.scss133534446882349619 0
 53D:\It\novabydova\node_modules\svgo\lib\stringifier.js133512021270351134 0
 57D:\It\novabydova\node_modules\@parcel\config-default\test133512021258319816 1
 53D:\It\novabydova\node_modules\domutils\lib\index.d.ts133512021264761615 0
@@ -276,7 +276,7 @@
 61D:\It\novabydova\node_modules\caniuse-lite\data\regions\TM.js133512021284334687 0
 51D:\It\novabydova\node_modules\lmdb\dependencies\lz4133512021263945374 1
 43D:\It\novabydova\node_modules\utility-types133512021263541569 1
-41D:\It\novabydova\src\partials\footer.html133534366084428796 0
+41D:\It\novabydova\src\partials\footer.html133534440332570375 0
 54D:\It\novabydova\node_modules\utility-types\SUPPORT.md133512021263586925 0
 52D:\It\novabydova\node_modules\ordered-binary\LICENSE133512021253468993 0
 47D:\It\novabydova\node_modules\parcel\lib\bin.js133512021254599476 0
@@ -291,7 +291,7 @@
 61D:\It\novabydova\node_modules\source-map-support\package.json133512021260750560 0
 76D:\It\novabydova\node_modules\dom-serializer\node_modules\entities\readme.md133512021263643589 0
 58D:\It\novabydova\node_modules\node-releases\data\processed133512021254609528 1
-33D:\It\novabydova\src\js\header.js133528424640329929 0
+33D:\It\novabydova\src\js\header.js133534404459111515 0
 46D:\It\novabydova\node_modules\merge2\README.md133512021257627789 0
 35D:\It\novabydova\src\images\dasktop133534343601509318 1
 47D:\It\novabydova\node_modules\type-fest\license133512021253443534 0
@@ -4828,13 +4828,13 @@
 42D:\It\novabydova\dist\hero-mb.79b73e62.jpg133534361664955057 0
 42D:\It\novabydova\dist\hero-tb.ba62079b.jpg133534361664752664 0
 39D:\It\novabydova\dist\index.7141c58b.js133534361664732609 0
-39D:\It\novabydova\dist\index.7afa73b1.js133534361665253577 0
-43D:\It\novabydova\dist\index.7afa73b1.js.map133534361665253577 0
+39D:\It\novabydova\dist\index.7afa73b1.js133534404460730391 0
+43D:\It\novabydova\dist\index.7afa73b1.js.map133534404460730391 0
 43D:\It\novabydova\dist\index.975ef6c8.js.map133534361664893209 0
-40D:\It\novabydova\dist\index.b07a87f3.css133534365951810205 0
-44D:\It\novabydova\dist\index.b07a87f3.css.map133534365951842692 0
+40D:\It\novabydova\dist\index.b07a87f3.css133534446884912302 0
+44D:\It\novabydova\dist\index.b07a87f3.css.map133534446884927468 0
 39D:\It\novabydova\dist\index.ba4f3a9f.js133534361664732609 0
-32D:\It\novabydova\dist\index.html133534366043852457 0
+32D:\It\novabydova\dist\index.html133534448711187396 0
 52D:\It\novabydova\dist\infrastructure-dt.72c7ea41.jpg133534361664813044 0
 52D:\It\novabydova\dist\infrastructure-mb.9755438f.jpg133534361664732609 0
 40D:\It\novabydova\assets\how-it-works.png133512016583766198 0
