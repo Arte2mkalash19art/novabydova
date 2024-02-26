@@ -9,17 +9,17 @@
 }
 .flex {
   display: flex;
+  justify-content: space-between;
   flex-wrap: wrap;
   gap: 30px;
   padding-top: 20px;
-  justify-content: space-between;
 }
 .navigation-footer-list {
-  width: 104px;
-  height: 187px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  width: 104px;
+  height: 187px;
 }
 .list-text-footer {
   cursor: pointer;
@@ -32,11 +32,11 @@
   color: #837c73;
 }
 .contact-footer-list {
-  width: 135px;
-  height: 155px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  width: 135px;
+  height: 155px;
 }
 .title-list-text {
   font-weight: 600;
@@ -50,10 +50,10 @@
 }
 .social-footer-item {
   display: flex;
-  cursor: pointer;
-  padding: 8px;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
+  padding: 8px;
   transition: all 0.5s;
   border-radius: 20px;
 }
