@@ -71,6 +71,7 @@
 .button-header {
   margin-top: 7px;
   margin-left: auto;
+  cursor: pointer;
   @media screen and (min-width: 768px) {
     display: none;
   }
@@ -88,9 +89,7 @@
   background: rgb(46, 43, 35);
   border-radius: 8px;
   color: rgb(252, 252, 251);
-  font-family: Poppins;
   font-size: 16px;
-  font-weight: 300;
   line-height: 24px;
 }
 
@@ -209,4 +208,9 @@
 .menu-link:focus,
 .menu-link:hover {
   color: #000;
+}
+
+.burger.active {
+  position: fixed;
+  right: 27px;
 }
