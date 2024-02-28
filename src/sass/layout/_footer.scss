@@ -21,15 +21,16 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.list-text {
+.list-text-footer {
+  width: 135px;
   cursor: pointer;
   font-weight: 400;
   font-size: 14px;
   color: #fff;
   transition: all 0.5s;
 }
-.list-text:hover {
-  color: #837c73;
+.list-text-footer:hover {
+  color: #8b857d;
 }
 .contact-footer-list {
   width: 135px;
@@ -58,7 +59,7 @@
   border-radius: 20px;
 }
 .social-footer-item:hover {
-  background-color: #2d2a22;
+  background-color: $plimal-color;
 }
 .Privacy-footer-text {
   padding-top: 10px;
@@ -91,9 +92,15 @@
   .Privacy-footer-text {
     padding-top: 30px;
   }
+  .br {
+    display: none;
+  }
 }
 @media screen and (min-width: 1280px) {
   .contact-footer-list {
     width: 283px;
+  }
+  .br {
+    display: none;
   }
 }
