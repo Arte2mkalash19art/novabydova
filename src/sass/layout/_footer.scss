@@ -97,3 +97,27 @@
     width: 283px;
   }
 }
+
+#scrollBtn {
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  padding: 7px 10px;
+  font-size: 15px;
+  border: none;
+  border-radius: 50%;
+  background-color: $maincolor;
+  color: $secondry-color;
+  cursor: pointer;
+
+  &:active {
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+    transform: translateY(2px);
+  }
+
+  @media screen and (min-width: 720px) {
+    padding: 10px 15px;
+    font-size: 20px;
+  }
+}
