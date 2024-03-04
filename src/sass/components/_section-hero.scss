@@ -1,26 +1,30 @@
 .hero {
+  position: relative;
+
+  width: 100%;
+  padding-top: 15px;
+  padding-bottom: 60px;
+  margin: 0 auto;
+  text-align: center;
+
   background-image: url('../images/mobile/hero-mb.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
-  width: 100%;
-  padding-top: 15px;
-  padding-bottom: 60px;
-  text-align: center;
-  margin: 0 auto;
 
   @media screen and (min-width: 768px) {
-    background-image: url('../images/tablet/hero-tb.jpg');
     width: 100%;
     padding-top: 32px;
     padding-bottom: 100px;
+
+    background-image: url('../images/tablet/hero-tb.jpg');
   }
   @media screen and (min-width: 1280px) {
-    background-image: url('../images/dasktop/hero-dt.jpg');
     width: 100%;
     padding-top: 32px;
     padding-bottom: 100px;
+
+    background-image: url('../images/dasktop/hero-dt.jpg');
   }
 }
 .hero-title {
@@ -35,24 +39,25 @@
   }
 }
 .hero-text {
+  margin-bottom: 247px;
   font-size: 16px;
   line-height: 24px;
-  margin-bottom: 247px;
   color: $maincolor;
 
   @media screen and (min-width: 768px) {
+    margin-bottom: 383px;
     font-size: 24px;
     line-height: 36px;
-    margin-bottom: 383px;
   }
 }
 .hero-button {
-  font-size: 20px;
-  line-height: 30px;
-  border: 0;
-  border-radius: 16px;
   width: 200px;
   height: 50px;
+
+  font-size: 20px;
+  line-height: 1.5;
+  border: 0;
+  border-radius: 16px;
   background-color: $secondry-color;
   cursor: pointer;
   @extend %animation-button;
@@ -60,7 +65,8 @@
   @media screen and (min-width: 768px) {
     width: 256px;
     height: 54px;
+
     font-size: 24px;
-    line-height: 36px;
+    line-height: 1.5;
   }
 }

@@ -1,6 +1,6 @@
-.Infrastructure {
-  background-color: rgb(237, 233, 227);
+.infrastructure {
   height: 557px;
+  background-color: rgb(237, 233, 227);
   @media screen and (min-width: 768px) {
     height: 670px;
   }
@@ -34,52 +34,55 @@
 }
 
 .background-fon {
-  width: 100%;
   position: relative;
-  background-size: cover;
-  align-items: center;
-  background-image: url(../images/mobile/infrastructure-mb.jpg);
+
+  width: 100%;
   min-width: 320px;
   height: 431px;
-  background-repeat: no-repeat;
   padding: 40px 20px;
+
+  background-image: url(../images/mobile/infrastructure-mb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
   @media screen and (min-width: 768px) {
     width: 100%;
-    background-image: url(../images/tablet/infrastructure-tb.jpg);
     min-width: 768px;
     height: 486px;
     padding: 8px 37px 8px 0;
+
+    background-image: url(../images/tablet/infrastructure-tb.jpg);
   }
+
   @media screen and (min-width: 1280px) {
-    background-image: url(../images/dasktop/infrastructure-dt.jpg);
     min-width: 1144px;
     width: 1144px;
     height: 486px;
-    margin: 8px 68px 8px 68px;
     margin: 0 auto;
+
+    background-image: url(../images/dasktop/infrastructure-dt.jpg);
   }
 }
 
 .list-menu-text.fon-infrasrtructure {
-  margin: 0 auto;
-  align-items: center;
   width: 280px;
   height: 351px;
+  margin: 0 auto;
+  padding: 24px 18px;
+  border-radius: 8px;
+
   opacity: 0.8;
   background-color: #fcfcfb;
-  border-radius: 8px;
-  padding: 24px 18px;
+
   @media screen and (min-width: 768px) {
     position: absolute;
-    margin-left: auto;
+    right: 37px;
+
     width: 331px;
     height: 470px;
     padding: 24px 32px;
-    right: 37px;
     row-gap: 60px;
-  }
-  @media screen and (min-width: 1280px) {
-
+    margin-left: auto;
   }
 }
 
@@ -87,47 +90,51 @@
   display: flex;
   flex-direction: column;
   column-gap: 7px;
+
   @media screen and (min-width: 768px) {
     column-gap: 11px;
   }
 }
 
-
 .list-item-text {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+
   width: 244px;
   height: 101px;
-  align-items: center;
   border-radius: 50px;
-  justify-content: space-between;
+
   @media screen and (min-width: 768px) {
     width: 267px;
   }
 }
 
-
 .item-text {
-  border: 1px solid rgb(45, 42, 34);
+  padding: 15px;
+  text-align: center;
   border-radius: 50%;
+
+  border: 1px solid rgb(45, 42, 34);
   color: #000000;
   font-size: 14px;
   font-weight: 600;
   line-height: 21px;
-  text-align: center;
-  padding: 15px;
+
   @media screen and (min-width: 768px) {
     font-size: 16px;
     line-height: 24px;
-
   }
 }
 
 .list-text {
+  text-align: center;
+
   color: rgb(126, 109, 83);
   font-size: 14px;
   font-weight: 500;
   line-height: 21px;
-  text-align: center;
+
   @media screen and (min-width: 768px) {
     font-size: 16px;
     line-height: 24px;

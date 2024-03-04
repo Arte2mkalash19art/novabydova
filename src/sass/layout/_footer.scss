@@ -1,12 +1,15 @@
 .footer {
+  height: 322px;
   margin-inline: auto;
   max-width: 1280px;
-  height: 322px;
+
   background: linear-gradient(213deg, #2d2a22 0%, #7e6d53 100%);
+
   .logo {
     display: none;
   }
 }
+
 .flex {
   display: flex;
   justify-content: space-between;
@@ -14,68 +17,94 @@
   gap: 30px;
   padding-top: 20px;
 }
+
 .navigation-footer-list {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
   width: 104px;
   height: 187px;
 }
+
 .list-text-footer {
-  word-break: break-all;
   width: 135px;
+  word-break: break-all;
   cursor: pointer;
   font-weight: 400;
   font-size: 14px;
   color: #fff;
   transition: all 0.5s;
 }
+
 .list-text-footer.mail {
   display: block;
   width: 115px;
   word-break: break-all;
 }
+
 .list-text-footer:hover {
   color: black;
 }
+
 .contact-footer-list {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
   width: 135px;
   height: 155px;
 }
+
 .title-list-text {
   font-weight: 600;
   font-size: 18px;
-  color: #fff;
+  color: $secondry-color;
 }
+
 .social-footer-list {
   display: flex;
   justify-content: space-between;
   width: 156px;
 }
+
 .social-footer-item {
   display: flex;
   justify-content: center;
   align-items: center;
-  cursor: pointer;
+
   padding: 8px;
-  transition: all 0.5s;
   border-radius: 20px;
+
+  cursor: pointer;
+  transition: all 0.5s;
 }
+.social-footer-icon {
+  fill: #fcfcfb;
+}
+
+.social-footer-item:hover,
+.social-footer-item:focus {
+  .social-footer-icon {
+    fill: #d9d61f;
+  }
+}
+
 .social-footer-item:hover {
   background-color: $plimal-color;
 }
+
 .privacy-footer-text {
   padding-top: 10px;
-  font-family: 'Roboto', sans-serif;
+
+  font-family: $font-family;
   font-weight: 400;
   font-size: 14px;
   line-height: 121%;
   text-align: center;
   color: #979797;
 }
+
 .line {
   text-decoration: underline;
 }
@@ -87,17 +116,21 @@
       display: block;
     }
   }
+
   .flex {
     padding-top: 30px;
   }
+
   .social-footer-list {
     flex-direction: column;
     height: 156px;
     width: 40px;
   }
+
   .Privacy-footer-text {
     padding-top: 30px;
   }
+
   .br {
     display: none;
   }
@@ -106,6 +139,7 @@
   .contact-footer-list {
     width: 283px;
   }
+
   .br {
     display: none;
   }
@@ -116,10 +150,12 @@
   position: fixed;
   bottom: 30px;
   right: 30px;
+
   padding: 7px 10px;
-  font-size: 15px;
   border: none;
   border-radius: 50%;
+
+  font-size: 15px;
   background-color: $maincolor;
   color: $secondry-color;
   cursor: pointer;

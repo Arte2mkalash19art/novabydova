@@ -1,6 +1,7 @@
 .apartment {
   padding: 24px 0 32px 0;
-  background-color: #fff;
+  background-color: $secondry-color;
+
   @media screen and (min-width: 768px) {
     padding-bottom: 40px;
   }
@@ -19,6 +20,7 @@
   display: flex;
   flex-direction: column;
   row-gap: 28px;
+
   margin: 28px 0;
 
   @media screen and (min-width: 768px) {
@@ -26,6 +28,7 @@
     justify-content: center;
     flex-wrap: wrap;
     column-gap: 32px;
+
     margin: 40px 0 28px;
   }
   .apart-item:hover,
@@ -34,9 +37,9 @@
     cursor: pointer;
   }
   .apart-item {
-    padding: 20px 30px;
     width: 280px;
     height: 383px;
+    padding: 20px 30px;
     border-radius: 16px;
 
     @media screen and (min-width: 768px) {
@@ -55,6 +58,7 @@
     .apart-name {
       margin-top: 20px;
       text-align: center;
+
       font-weight: 400;
       font-size: 28px;
       line-height: 120%;
@@ -68,6 +72,7 @@
     .apart-subtitle {
       margin-top: 8px;
       text-align: center;
+
       font-size: 20px;
       line-height: 130%;
       color: $maincolor;
@@ -80,12 +85,13 @@
 }
 .appart-button {
   display: block;
-  margin: 0 auto;
-  padding: 14px 28px;
   width: 240px;
   height: 54px;
-  border: none;
+  margin: 0 auto;
+  padding: 14px 28px;
   border-radius: 16px;
+  border: none;
+
   background-color: $maincolor;
   color: $secondry-color;
   font-size: 18px;
