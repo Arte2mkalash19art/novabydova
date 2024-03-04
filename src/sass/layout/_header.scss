@@ -1,4 +1,13 @@
+header {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+
 .header {
+  position: sticky;
+  top: 0;
+  z-index: 5;
   display: flex;
   padding: 25px 23px;
   max-width: 100%;
