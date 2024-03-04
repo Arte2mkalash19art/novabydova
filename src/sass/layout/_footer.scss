@@ -22,14 +22,21 @@
   height: 187px;
 }
 .list-text-footer {
+  word-break: break-all;
+  width: 135px;
   cursor: pointer;
   font-weight: 400;
   font-size: 14px;
-  color: $secondry-color;
+  color: #fff;
   transition: all 0.5s;
 }
+.list-text-footer.mail {
+  display: block;
+  width: 115px;
+  word-break: break-all;
+}
 .list-text-footer:hover {
-  color: #837c73;
+  color: black;
 }
 .contact-footer-list {
   display: flex;
@@ -41,7 +48,7 @@
 .title-list-text {
   font-weight: 600;
   font-size: 18px;
-  color: $secondry-color;
+  color: #fff;
 }
 .social-footer-list {
   display: flex;
@@ -60,7 +67,7 @@
 .social-footer-item:hover {
   background-color: $plimal-color;
 }
-.Privacy-footer-text {
+.privacy-footer-text {
   padding-top: 10px;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
@@ -91,10 +98,16 @@
   .Privacy-footer-text {
     padding-top: 30px;
   }
+  .br {
+    display: none;
+  }
 }
 @media screen and (min-width: 1280px) {
   .contact-footer-list {
     width: 283px;
+  }
+  .br {
+    display: none;
   }
 }
 
