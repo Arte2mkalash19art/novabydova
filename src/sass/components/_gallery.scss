@@ -6,10 +6,22 @@
 }
 .carousel-inner.box{
     margin-left: auto;
-    margin-top: 300px;
-    margin-bottom: 300px;
+    margin-top: 20px;
+    margin-bottom: 15px;
     margin-right: auto;
     }
 .carousel-inner{
     width: 70%;
 }
+.carousel.slide{
+padding-bottom: 10px;
+}
+.carousel-indicators{
+    margin-bottom: 0;
+}
+button[data-bs-slide-to] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #C4C4C4;
+  }

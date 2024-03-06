@@ -1,4 +1,4 @@
-4837
+4847
 96C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\text-underline-offset.js133530057298494352 0
 59C:\Users\OEM\Desktop\novabydova\node_modules\yaml\schema.js133530057286568084 0
 49C:\Users\OEM\Desktop\novabydova\node_modules\svgo133530057291155399 1
@@ -8,13 +8,13 @@
 75C:\Users\OEM\Desktop\novabydova\node_modules\domutils\lib\querying.d.ts.map133530057281505553 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\boolbase\package.json133530057269832633 0
 39C:\Users\OEM\Desktop\novabydova\.github133528395610823097 1
-81C:\Users\OEM\Desktop\novabydova\node_modules\v8-compile-cache\v8-compile-cache.js133530057271687829 0
 71C:\Users\OEM\Desktop\novabydova\node_modules\nan\nan_maybe_pre_43_inl.h133530057280340597 0
 69C:\Users\OEM\Desktop\novabydova\node_modules\terser\dist\package.json133530057289834442 0
 95C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\css-case-insensitive.js133530057292830141 0
+81C:\Users\OEM\Desktop\novabydova\node_modules\v8-compile-cache\v8-compile-cache.js133530057271687829 0
 124C:\Users\OEM\Desktop\novabydova\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV1\files\embed\embed2\file3.txt133530057288181296 0
 75C:\Users\OEM\Desktop\novabydova\node_modules\css-what\lib\es\parse.d.ts.map133530057281386485 0
-57C:\Users\OEM\Desktop\novabydova\src\partials\gallery.html133530681484378513 0
+57C:\Users\OEM\Desktop\novabydova\src\partials\gallery.html133542251282764470 0
 77C:\Users\OEM\Desktop\novabydova\node_modules\cosmiconfig\dist\cacheWrapper.js133530057272175332 0
 76C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\regions\MM.js133530057296703769 0
 41C:\Users\OEM\Desktop\novabydova\.DS_Store133528395610823097 0
@@ -57,6 +57,7 @@
 95C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133530057291749953 0
 50C:\Users\OEM\Desktop\novabydova\src\images\dasktop133528395614559664 1
 110C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\index.js133530057286613734 0
+59C:\Users\OEM\Desktop\novabydova\src\icons\sprite\Vector.svg133534464510389331 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\msgpackr\iterators.js133530057280739933 0
 56C:\Users\OEM\Desktop\novabydova\src\partials\header.html133528395615156333 0
 76C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\core\test\utils.test.js133530057293324674 0
@@ -78,7 +79,7 @@
 62C:\Users\OEM\Desktop\novabydova\node_modules\yaml\package.json133530057288332631 0
 86C:\Users\OEM\Desktop\novabydova\node_modules\electron-to-chromium\chromium-versions.js133530057271842036 0
 93C:\Users\OEM\Desktop\novabydova\node_modules\@swc\helpers\src\_initializer_define_property.js133530057292734614 0
-36C:\Users\OEM\Desktop\novabydova\dist133530703344167823 1
+36C:\Users\OEM\Desktop\novabydova\dist133542252551339798 1
 51C:\Users\OEM\Desktop\novabydova\src\sass\components133529254031513861 1
 49C:\Users\OEM\Desktop\novabydova\package-lock.json133530057332692965 0
 80C:\Users\OEM\Desktop\novabydova\node_modules\source-map\dist\source-map.debug.js133530057284507665 0
@@ -120,9 +121,16 @@
 93C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\speech-recognition.js133530057298182712 0
 55C:\Users\OEM\Desktop\novabydova\node_modules\fclone\src133530057279468921 1
 58C:\Users\OEM\Desktop\novabydova\src\sass\utils\_reset.scss133528395615156333 0
+61C:\Users\OEM\Desktop\novabydova\src\icons\sprite\Vector 1.svg133534464638561585 0
 56C:\Users\OEM\Desktop\novabydova\node_modules\terser\dist133530057289834442 1
 83C:\Users\OEM\Desktop\novabydova\node_modules\type-fest\source\conditional-pick.d.ts133530057280510830 0
 44C:\Users\OEM\Desktop\novabydova\README.es.md133528395613861595 0
+60C:\Users\OEM\Desktop\novabydova\node_modules\.bin\semver.cmd133530057329890932 0
+63C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\README.md133530057292990478 0
+59C:\Users\OEM\Desktop\novabydova\node_modules\nan\nan_weak.h133530057283164011 0
+54C:\Users\OEM\Desktop\novabydova\src\sass\index.css.map133534471445251788 0
+78C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\utils\src\PromiseQueue.js133530057289655521 0
+58C:\Users\OEM\Desktop\novabydova\node_modules\yaml\util.mjs133530057288834365 0
 41C:\Users\OEM\Desktop\novabydova\README.md133528395613861595 0
 44C:\Users\OEM\Desktop\novabydova\README.uk.md133528395613861595 0
 67C:\Users\OEM\Desktop\novabydova\node_modules\source-map\lib\util.js133530057282273246 0
@@ -192,7 +200,7 @@
 75C:\Users\OEM\Desktop\novabydova\node_modules\yaml\dist\warnings-1000a372.js133530057288076704 0
 91C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\mutationobserver.js133530057296796180 0
 82C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\runtime-js\src\helpers\worker133530057287120478 1
-40C:\Users\OEM\Desktop\novabydova\src\sass133528395615156333 1
+40C:\Users\OEM\Desktop\novabydova\src\sass133534458712289707 1
 61C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\src\txn.cpp133530057291490840 0
 63C:\Users\OEM\Desktop\novabydova\node_modules\yaml\browser\types133530057287089170 1
 76C:\Users\OEM\Desktop\novabydova\node_modules\@nodelib\fs.walk\out\index.d.ts133530057282498456 0
@@ -206,6 +214,10 @@
 66C:\Users\OEM\Desktop\novabydova\src\images\tablet\gallery-4-tb.jpg133528395614960655 0
 63C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\runtime-js133530057287298932 1
 75C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core\lib133530057289834442 1
+66C:\Users\OEM\Desktop\novabydova\src\images\mobile\gallery-3-mb.jpg133528395614657812 0
+79C:\Users\OEM\Desktop\novabydova\node_modules\parcel-reporter-clean-dist\LICENSE133530057270844139 0
+50C:\Users\OEM\Desktop\novabydova\src\sass\index.css133534471445251788 0
+65C:\Users\OEM\Desktop\novabydova\node_modules\source-map\README.md133530057272331786 0
 74C:\Users\OEM\Desktop\novabydova\node_modules\react-refresh\build-info.json133530057278687898 0
 99C:\Users\OEM\Desktop\novabydova\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133530057279655225 0
 47C:\Users\OEM\Desktop\novabydova\src\sass\layout133528395615156333 1
@@ -247,7 +259,7 @@
 77C:\Users\OEM\Desktop\novabydova\node_modules\react-error-overlay\lib\index.js133530057281419445 0
 68C:\Users\OEM\Desktop\novabydova\node_modules\fill-range\package.json133530057269832633 0
 60C:\Users\OEM\Desktop\novabydova\node_modules\queue-microtask133530057274018932 1
-65C:\Users\OEM\Desktop\novabydova\src\sass\components\_gallery.scss133530703064186473 0
+65C:\Users\OEM\Desktop\novabydova\src\sass\components\_gallery.scss133542255189634338 0
 53C:\Users\OEM\Desktop\novabydova\node_modules\htmlnano133530057290719122 1
 87C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\cryptography.js133530057292334311 0
 90C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\transformer-postcss\src\loadConfig.js133530057281290634 0
@@ -432,16 +444,14 @@
 71C:\Users\OEM\Desktop\novabydova\node_modules\color-convert\CHANGELOG.md133530057271842036 0
 69C:\Users\OEM\Desktop\novabydova\src\images\mobile\gallery-2-mb@2x.jpg133528395614657812 0
 76C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\regions\PG.js133530057297327914 0
+61C:\Users\OEM\Desktop\novabydova\node_modules\mdn-data\LICENSE133530057270671666 0
+78C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133530057286668038 0
+80C:\Users\OEM\Desktop\novabydova\node_modules\terser\lib\compress\tighten-body.js133530057289656941 0
 54C:\Users\OEM\Desktop\novabydova\node_modules\fast-glob133530057285164905 1
 90C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\payment-request.js133530057297271921 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\css-what\lib\commonjs133530057284003300 1
 88C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133530057291991635 0
 69C:\Users\OEM\Desktop\novabydova\src\images\mobile\gallery-2-mb@3x.jpg133528395614657812 0
-61C:\Users\OEM\Desktop\novabydova\node_modules\mdn-data\LICENSE133530057270671666 0
-78C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133530057286668038 0
-80C:\Users\OEM\Desktop\novabydova\node_modules\terser\lib\compress\tighten-body.js133530057289656941 0
-66C:\Users\OEM\Desktop\novabydova\src\images\mobile\gallery-3-mb.jpg133528395614657812 0
-79C:\Users\OEM\Desktop\novabydova\node_modules\parcel-reporter-clean-dist\LICENSE133530057270844139 0
 88C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\notifications.js133530057296826596 0
 69C:\Users\OEM\Desktop\novabydova\src\images\mobile\gallery-3-mb@2x.jpg133528395614657812 0
 73C:\Users\OEM\Desktop\novabydova\node_modules\nth-check\lib\index.d.ts.map133530057281399514 0
@@ -545,9 +555,9 @@
 65C:\Users\OEM\Desktop\novabydova\node_modules\globals\globals.json133530057274018932 0
 111C:\Users\OEM\Desktop\novabydova\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\file1.txt133530057286380388 0
 81C:\Users\OEM\Desktop\novabydova\node_modules\htmlnano\lib\modules\mergeScripts.js133530057281505553 0
+65C:\Users\OEM\Desktop\novabydova\node_modules\terser\dist\.gitkeep133530057269676226 0
 63C:\Users\OEM\Desktop\novabydova\node_modules\nan\doc\methods.md133530057286546648 0
 67C:\Users\OEM\Desktop\novabydova\src\images\dasktop\gallery-1-dt.jpg133528395614057948 0
-65C:\Users\OEM\Desktop\novabydova\node_modules\terser\dist\.gitkeep133530057269676226 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\run-parallel\index.js133530057270844139 0
 94C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js133530057285868319 0
 89C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\pagevisibility.js133530057297242021 0
@@ -631,7 +641,7 @@
 104C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133530057283500388 0
 58C:\Users\OEM\Desktop\novabydova\node_modules\tslib\modules133530057275682232 1
 72C:\Users\OEM\Desktop\novabydova\node_modules\to-regex-range\package.json133530057269676226 0
-54C:\Users\OEM\Desktop\novabydova\dist\index.ba4f3a9f.js133530703343317021 0
+54C:\Users\OEM\Desktop\novabydova\dist\index.ba4f3a9f.js133542252551115361 0
 70C:\Users\OEM\Desktop\novabydova\node_modules\fast-glob\out\settings.js133530057283665257 0
 105C:\Users\OEM\Desktop\novabydova\node_modules\htmlnano\docs\versioned_sidebars\version-1.1.1-sidebars.json133530057288332631 0
 65C:\Users\OEM\Desktop\novabydova\src\images\dasktop\hero-dt@3x.jpg133528395614493864 0
@@ -644,10 +654,10 @@
 75C:\Users\OEM\Desktop\novabydova\src\images\dasktop\infrastructure-dt@3x.jpg133528395614559664 0
 55C:\Users\OEM\Desktop\novabydova\node_modules\yaml\types133530057287162882 1
 65C:\Users\OEM\Desktop\novabydova\node_modules\htmlnano\LICENSE.txt133530057290729093 0
-48C:\Users\OEM\Desktop\novabydova\src\icons\sprite133528395614017903 1
+48C:\Users\OEM\Desktop\novabydova\src\icons\sprite133542195897458420 1
 76C:\Users\OEM\Desktop\novabydova\node_modules\posthtml-render\dist\index.d.ts133530057276349835 0
 128C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\source.js133530057290820952 0
-64C:\Users\OEM\Desktop\novabydova\src\icons\sprite\symbol-defs.svg133528395614017903 0
+64C:\Users\OEM\Desktop\novabydova\src\icons\sprite\symbol-defs.svg133534468468525703 0
 68C:\Users\OEM\Desktop\novabydova\node_modules\is-extglob\package.json133530057269832633 0
 97C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133530057281674249 0
 56C:\Users\OEM\Desktop\novabydova\node_modules\timsort\src133530057277867331 1
@@ -907,8 +917,6 @@
 84C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\dom-range.js133530057294994594 0
 68C:\Users\OEM\Desktop\novabydova\node_modules\nan\doc\v8_internals.md133530057287501581 0
 51C:\Users\OEM\Desktop\novabydova\node_modules\parcel133530057278022263 1
-86C:\Users\OEM\Desktop\novabydova\node_modules\node-gyp-build-optional-packages\index.js133530057273876150 0
-83C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\css-sel3.js133530057294192275 0
 71C:\Users\OEM\Desktop\novabydova\node_modules\parcel-reporter-clean-dist133530057289501645 1
 75C:\Users\OEM\Desktop\novabydova\node_modules\type-fest\ts41\camel-case.d.ts133530057279178041 0
 58C:\Users\OEM\Desktop\novabydova\node_modules\parent-module133530057274360532 1
@@ -1047,7 +1055,7 @@
 56C:\Users\OEM\Desktop\novabydova\node_modules\yaml\seq.js133530057286668038 0
 89C:\Users\OEM\Desktop\novabydova\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs133530057281353196 0
 62C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\types\lib133530057282183609 1
-62C:\Users\OEM\Desktop\novabydova\dist\gallery-3-dt.2da707f0.jpg133530703343322673 0
+62C:\Users\OEM\Desktop\novabydova\dist\gallery-3-dt.2da707f0.jpg133542252551039265 0
 58C:\Users\OEM\Desktop\novabydova\node_modules\yaml\types.js133530057287501581 0
 87C:\Users\OEM\Desktop\novabydova\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133530057290347293 1
 77C:\Users\OEM\Desktop\novabydova\node_modules\css-what\lib\commonjs\index.d.ts133530057282828026 0
@@ -1055,7 +1063,6 @@
 94C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133530057280510830 0
 98C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\background-position-x-y.js133530057288086943 0
 59C:\Users\OEM\Desktop\novabydova\node_modules\yaml\types.mjs133530057288680578 0
-58C:\Users\OEM\Desktop\novabydova\node_modules\yaml\util.mjs133530057288834365 0
 62C:\Users\OEM\Desktop\novabydova\node_modules\svgo\lib\types.ts133530057291308882 0
 65C:\Users\OEM\Desktop\novabydova\node_modules\yaml\types\binary.js133530057273030987 0
 63C:\Users\OEM\Desktop\novabydova\node_modules\has-flag\readme.md133530057274204467 0
@@ -1231,10 +1238,10 @@
 69C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\optimizer-terser133530057278687898 1
 71C:\Users\OEM\Desktop\novabydova\node_modules\svgo\plugins\removeDesc.js133530057287244716 0
 102C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133530057286162791 0
-55C:\Users\OEM\Desktop\novabydova\dist\index.b07a87f3.css133530703343653932 0
+55C:\Users\OEM\Desktop\novabydova\dist\index.b07a87f3.css133542252550802452 0
 72C:\Users\OEM\Desktop\novabydova\node_modules\utility-types\dist\index.js133530057273351386 0
 72C:\Users\OEM\Desktop\novabydova\node_modules\css-select\lib\procedure.js133530057279375897 0
-59C:\Users\OEM\Desktop\novabydova\dist\index.b07a87f3.css.map133530703343663982 0
+59C:\Users\OEM\Desktop\novabydova\dist\index.b07a87f3.css.map133542252550850954 0
 76C:\Users\OEM\Desktop\novabydova\node_modules\utility-types\dist\index.js.map133530057278477281 0
 79C:\Users\OEM\Desktop\novabydova\node_modules\utility-types\dist\mapped-types.js133530057274204467 0
 85C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133530057292489554 0
@@ -1408,9 +1415,9 @@
 84C:\Users\OEM\Desktop\novabydova\node_modules\terser\lib\compress\compressor-flags.js133530057285663715 0
 91C:\Users\OEM\Desktop\novabydova\node_modules\@swc\helpers\src\_object_without_properties.js133530057292990478 0
 88C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\css-boxshadow.js133530057292764513 0
+99C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core\test\fixture\nested\test.js133530057291002193 0
 74C:\Users\OEM\Desktop\novabydova\node_modules\source-map\dist\source-map.js133530057285000056 0
 95C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133530057283412736 0
-99C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core\test\fixture\nested\test.js133530057291002193 0
 67C:\Users\OEM\Desktop\novabydova\node_modules\is-binary-path\license133530057273536055 0
 77C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\packager-js\package.json133530057284874256 0
 89C:\Users\OEM\Desktop\novabydova\node_modules\terser\lib\compress\drop-side-effect-free.js133530057286493166 0
@@ -1483,7 +1490,7 @@
 95C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133530057293146707 0
 68C:\Users\OEM\Desktop\novabydova\node_modules\lmdb-win32-x64\index.js133530057269832633 0
 83C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\transformer-babel\src\utils.js133530057284164602 0
-62C:\Users\OEM\Desktop\novabydova\dist\gallery-2-dt.4cbfdabd.jpg133530703344011102 0
+62C:\Users\OEM\Desktop\novabydova\dist\gallery-2-dt.4cbfdabd.jpg133542252551218414 0
 79C:\Users\OEM\Desktop\novabydova\node_modules\fast-glob\out\managers\patterns.js133530057283004486 0
 84C:\Users\OEM\Desktop\novabydova\node_modules\svgo\plugins\cleanupEnableBackground.js133530057280340597 0
 64C:\Users\OEM\Desktop\novabydova\node_modules\parse-json\index.js133530057271842036 0
@@ -1705,7 +1712,6 @@
 65C:\Users\OEM\Desktop\novabydova\node_modules\json5\dist\index.mjs133530057283164011 0
 59C:\Users\OEM\Desktop\novabydova\node_modules\source-map\lib133530057282007425 1
 61C:\Users\OEM\Desktop\novabydova\node_modules\json5\LICENSE.md133530057282007425 0
-65C:\Users\OEM\Desktop\novabydova\node_modules\source-map\README.md133530057272331786 0
 69C:\Users\OEM\Desktop\novabydova\node_modules\source-map\source-map.js133530057274204467 0
 56C:\Users\OEM\Desktop\novabydova\node_modules\fclone\dist133530057277012154 1
 84C:\Users\OEM\Desktop\novabydova\node_modules\json-parse-even-better-errors\README.md133530057274360532 0
@@ -1873,12 +1879,12 @@
 73C:\Users\OEM\Desktop\novabydova\node_modules\binary-extensions\index.d.ts133530057276349835 0
 53C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\src133530057291827308 1
 70C:\Users\OEM\Desktop\novabydova\node_modules\posthtml-parser\readme.md133530057277184562 0
+106C:\Users\OEM\Desktop\novabydova\node_modules\posthtml-include\node_modules\posthtml-parser\dist\index.d.ts133530057276876913 0
+74C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\transformer-image\src133530057280784491 1
 85C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\core\test\RequestTracker.test.js133530057292694683 0
 85C:\Users\OEM\Desktop\novabydova\node_modules\node-gyp-build-optional-packages\LICENSE133530057269996602 0
 74C:\Users\OEM\Desktop\novabydova\node_modules\electron-to-chromium\index.js133530057276182045 0
 83C:\Users\OEM\Desktop\novabydova\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133530057271687829 0
-106C:\Users\OEM\Desktop\novabydova\node_modules\posthtml-include\node_modules\posthtml-parser\dist\index.d.ts133530057276876913 0
-74C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\transformer-image\src133530057280784491 1
 76C:\Users\OEM\Desktop\novabydova\node_modules\posthtml-parser\dist\index.d.ts133530057278022263 0
 76C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\regions\FO.js133530057295332454 0
 75C:\Users\OEM\Desktop\novabydova\node_modules\posthtml-match-helper\index.js133530057269832633 0
@@ -2118,6 +2124,8 @@
 77C:\Users\OEM\Desktop\novabydova\node_modules\htmlnano\lib\modules\minifyJs.js133530057282503931 0
 64C:\Users\OEM\Desktop\novabydova\node_modules\commander\Readme.md133530057279479567 0
 83C:\Users\OEM\Desktop\novabydova\node_modules\node-releases\data\processed\envs.json133530057272009114 0
+86C:\Users\OEM\Desktop\novabydova\node_modules\node-gyp-build-optional-packages\index.js133530057273876150 0
+83C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\css-sel3.js133530057294192275 0
 90C:\Users\OEM\Desktop\novabydova\node_modules\node-gyp-build-optional-packages\package.json133530057275529397 0
 95C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133530057283665257 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\node-gyp-build\bin.js133530057271842036 0
@@ -2151,7 +2159,7 @@
 81C:\Users\OEM\Desktop\novabydova\node_modules\node-addon-api\napi-inl.deprecated.h133530057274705311 0
 64C:\Users\OEM\Desktop\novabydova\node_modules\color-name\index.js133530057271687829 0
 70C:\Users\OEM\Desktop\novabydova\node_modules\node-addon-api\napi-inl.h133530057279178041 0
-54C:\Users\OEM\Desktop\novabydova\dist\index.7141c58b.js133530703343308103 0
+54C:\Users\OEM\Desktop\novabydova\dist\index.7141c58b.js133542252551115361 0
 71C:\Users\OEM\Desktop\novabydova\node_modules\htmlnano\docs\package.json133530057288171329 0
 78C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\eme.js133530057294994594 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\node-addon-api\napi.h133530057281000487 0
@@ -2187,7 +2195,7 @@
 81C:\Users\OEM\Desktop\novabydova\node_modules\nan\nan_define_own_property_helper.h133530057276514177 0
 74C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\runtime-react-refresh133530057278526736 1
 78C:\Users\OEM\Desktop\novabydova\node_modules\mdn-data\css\syntaxes.schema.json133530057284940325 0
-61C:\Users\OEM\Desktop\novabydova\dist\benefits-mb.d03540fb.jpg133530703343322673 0
+61C:\Users\OEM\Desktop\novabydova\dist\benefits-mb.d03540fb.jpg133542252551039265 0
 80C:\Users\OEM\Desktop\novabydova\node_modules\nan\nan_implementation_pre_12_inl.h133530057278687898 0
 59C:\Users\OEM\Desktop\novabydova\node_modules\nan\nan_json.h133530057279468921 0
 67C:\Users\OEM\Desktop\novabydova\node_modules\nan\nan_maybe_43_inl.h133530057279842185 0
@@ -2202,10 +2210,6 @@
 97C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js133530057289757030 0
 74C:\Users\OEM\Desktop\novabydova\node_modules\nan\nan_typedarray_contents.h133530057282924981 0
 87C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\utils\test\input\config\empty.json133530057290833044 0
-60C:\Users\OEM\Desktop\novabydova\node_modules\.bin\semver.cmd133530057329890932 0
-63C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\README.md133530057292990478 0
-59C:\Users\OEM\Desktop\novabydova\node_modules\nan\nan_weak.h133530057283164011 0
-78C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\utils\src\PromiseQueue.js133530057289655521 0
 61C:\Users\OEM\Desktop\novabydova\node_modules\nan\package.json133530057284507665 0
 58C:\Users\OEM\Desktop\novabydova\node_modules\nan\README.md133530057287109822 0
 147C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\package.json133530057292489554 0
@@ -2269,7 +2273,6 @@
 66C:\Users\OEM\Desktop\novabydova\node_modules\fclone\dist\fclone.js133530057275529397 0
 90C:\Users\OEM\Desktop\novabydova\node_modules\@swc\helpers\src\_class_private_field_init.js133530057291827308 0
 67C:\Users\OEM\Desktop\novabydova\node_modules\msgpackr\node-index.js133530057281000487 0
-84C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\common\OffsetToLocation.js133530057291676372 0
 59C:\Users\OEM\Desktop\novabydova\node_modules\.bin\json5.ps1133530057329890932 0
 94C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133530057292334311 0
 63C:\Users\OEM\Desktop\novabydova\node_modules\msgpackr\pack.d.ts133530057284507665 0
@@ -2303,12 +2306,12 @@
 66C:\Users\OEM\Desktop\novabydova\node_modules\msgpackr\dist\test.js133530057282503931 0
 93C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\css3-cursors-newer.js133530057294498958 0
 69C:\Users\OEM\Desktop\novabydova\node_modules\modern-normalize\license133530057271842036 0
+68C:\Users\OEM\Desktop\novabydova\node_modules\micromatch\package.json133530057273030987 0
 93C:\Users\OEM\Desktop\novabydova\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs.map133530057279673660 0
 90C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\core\lib\public\MutableBundleGraph.js133530057291332330 0
 72C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\common\List.js133530057290803413 0
 78C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\mp3.js133530057296725122 0
 74C:\Users\OEM\Desktop\novabydova\node_modules\modern-normalize\package.json133530057274018932 0
-68C:\Users\OEM\Desktop\novabydova\node_modules\micromatch\package.json133530057273030987 0
 80C:\Users\OEM\Desktop\novabydova\node_modules\@jridgewell\sourcemap-codec\LICENSE133530057270345376 0
 96C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133530057283004486 0
 76C:\Users\OEM\Desktop\novabydova\node_modules\fast-glob\out\managers\tasks.js133530057284976795 0
@@ -2322,7 +2325,7 @@
 87C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\css-autofill.js133530057292489554 0
 58C:\Users\OEM\Desktop\novabydova\node_modules\mdn-data\l10n133530057278022263 1
 67C:\Users\OEM\Desktop\novabydova\node_modules\mdn-data\l10n\index.js133530057275372886 0
-61C:\Users\OEM\Desktop\novabydova\dist\symbol-defs.a2afeabb.svg133530703344167823 0
+61C:\Users\OEM\Desktop\novabydova\dist\symbol-defs.a2afeabb.svg133542252550802452 0
 81C:\Users\OEM\Desktop\novabydova\node_modules\css-what\lib\commonjs\types.d.ts.map133530057282193814 0
 74C:\Users\OEM\Desktop\novabydova\node_modules\mdn-data\css\definitions.json133530057281505553 0
 81C:\Users\OEM\Desktop\novabydova\node_modules\@swc\helpers\src\_define_property.js133530057292489554 0
@@ -2380,6 +2383,7 @@
 90C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\transformer-css\lib\CSSTransformer.js133530057277364311 0
 57C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\LICENSE133530057282295429 0
 69C:\Users\OEM\Desktop\novabydova\node_modules\htmlparser2\package.json133530057277867331 0
+73C:\Users\OEM\Desktop\novabydova\dist\benefits-dt@2x.10052104.jpg.84129182133542212584952760 0
 56C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\mod.ts133530057293230982 0
 77C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\packager-js\lib\index.js133530057282675854 0
 59C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\native.js133530057292744583 0
@@ -2481,7 +2485,7 @@
 82C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lz4\lib\dll\example133530057293324674 1
 76C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\regions\MY.js133530057296826596 0
 85C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133530057291676372 0
-61C:\Users\OEM\Desktop\novabydova\dist\benefits-dt.a6dec812.jpg133530703343322673 0
+61C:\Users\OEM\Desktop\novabydova\dist\benefits-dt.a6dec812.jpg133542252551136668 0
 100C:\Users\OEM\Desktop\novabydova\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js.map133530057280510830 0
 100C:\Users\OEM\Desktop\novabydova\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133530057293175456 0
 77C:\Users\OEM\Desktop\novabydova\node_modules\@swc\helpers\src\_await_value.js133530057291490840 0
@@ -2714,7 +2718,7 @@
 72C:\Users\OEM\Desktop\novabydova\node_modules\domutils\lib\traversal.d.ts133530057284003300 0
 68C:\Users\OEM\Desktop\novabydova\node_modules\fclone\dist\fclone.d.ts133530057277184562 0
 77C:\Users\OEM\Desktop\novabydova\node_modules\@swc\helpers\src\_ts_metadata.js133530057293324674 0
-58C:\Users\OEM\Desktop\novabydova\dist\index.7141c58b.js.map133530703343322673 0
+58C:\Users\OEM\Desktop\novabydova\dist\index.7141c58b.js.map133542252551115361 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\fclone\bench\index.js133530057280510830 0
 78C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\syntax\node\Value.js133530057292820343 0
 68C:\Users\OEM\Desktop\novabydova\node_modules\fclone\bench\looparr.js133530057281000487 0
@@ -2776,7 +2780,7 @@
 81C:\Users\OEM\Desktop\novabydova\node_modules\fast-glob\out\providers\transformers133530057286000659 1
 75C:\Users\OEM\Desktop\novabydova\node_modules\@swc\helpers\src\_construct.js133530057292334311 0
 89C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133530057280674470 0
-54C:\Users\OEM\Desktop\novabydova\dist\index.7afa73b1.js133530703344011102 0
+54C:\Users\OEM\Desktop\novabydova\dist\index.7afa73b1.js133542252551298185 0
 99C:\Users\OEM\Desktop\novabydova\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133530057280830536 0
 92C:\Users\OEM\Desktop\novabydova\node_modules\fast-glob\out\providers\transformers\entry.d.ts133530057286000659 0
 90C:\Users\OEM\Desktop\novabydova\node_modules\fast-glob\out\providers\matchers\partial.d.ts133530057286837260 0
@@ -2908,8 +2912,8 @@
 68C:\Users\OEM\Desktop\novabydova\node_modules\csso\lib\replace\Url.js133530057287676443 0
 80C:\Users\OEM\Desktop\novabydova\node_modules\@babel\highlight\node_modules\chalk133530057276876913 1
 79C:\Users\OEM\Desktop\novabydova\node_modules\dom-serializer\lib\foreignNames.js133530057273736599 0
-74C:\Users\OEM\Desktop\novabydova\node_modules\dom-serializer\lib\index.d.ts133530057281840324 0
 100C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core\test\fixture\nested\index.js133530057285663715 0
+74C:\Users\OEM\Desktop\novabydova\node_modules\dom-serializer\lib\index.d.ts133530057281840324 0
 72C:\Users\OEM\Desktop\novabydova\node_modules\dom-serializer\lib\index.js133530057275529397 0
 98C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133530057294804420 0
 121C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\main.js133530057289111075 0
@@ -2924,8 +2928,8 @@
 62C:\Users\OEM\Desktop\novabydova\node_modules\csso\CHANGELOG.md133530057288680578 0
 89C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133530057286613734 0
 71C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\optimizer-svgo\src133530057279434901 1
-79C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\common\TokenStream.js133530057292674569 0
 54C:\Users\OEM\Desktop\novabydova\node_modules\csso\dist133530057285164905 1
+79C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\common\TokenStream.js133530057292674569 0
 59C:\Users\OEM\Desktop\novabydova\node_modules\csso\README.md133530057288822811 0
 65C:\Users\OEM\Desktop\novabydova\node_modules\csso\lib\compress.js133530057282675854 0
 62C:\Users\OEM\Desktop\novabydova\node_modules\csso\lib\index.js133530057286591949 0
@@ -3067,6 +3071,7 @@
 72C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\lexer\trace.js133530057292704715 0
 77C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\generator\create.js133530057283665257 0
 90C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133530057292489554 0
+84C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\common\OffsetToLocation.js133530057291676372 0
 79C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\lib\common\SyntaxError.js133530057292489554 0
 69C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\dist\csstree.js133530057286668038 0
 73C:\Users\OEM\Desktop\novabydova\node_modules\css-tree\dist\csstree.min.js133530057287159528 0
@@ -3640,7 +3645,7 @@
 90C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\form-validation.js133530057295538492 0
 80C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\forms.js133530057295538492 0
 86C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\geolocation.js133530057295593426 0
-62C:\Users\OEM\Desktop\novabydova\dist\gallery-1-dt.16656616.jpg133530703343322673 0
+62C:\Users\OEM\Desktop\novabydova\dist\gallery-1-dt.16656616.jpg133542252551039265 0
 103C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133530057293837524 0
 91C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\getcomputedstyle.js133530057295604322 0
 97C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\getelementsbyclassname.js133530057295604322 0
@@ -3768,7 +3773,7 @@
 79C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\sdch.js133530057297836331 0
 88C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\server-timing.js133530057298017851 0
 89C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\serviceworkers.js133530057298017851 0
-54C:\Users\OEM\Desktop\novabydova\dist\index.975ef6c8.js133530703344011102 0
+54C:\Users\OEM\Desktop\novabydova\dist\index.975ef6c8.js133542252551298185 0
 80C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\sha-2.js133530057298060221 0
 105C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc133530057278914866 0
 84C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\shadowdom.js133530057298070184 0
@@ -3787,7 +3792,7 @@
 83C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\svg-html.js133530057298328392 0
 84C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\svg-html5.js133530057298328392 0
 92C:\Users\OEM\Desktop\novabydova\node_modules\@swc\helpers\lib\_apply_decorated_descriptor.js133530057276349835 0
-64C:\Users\OEM\Desktop\novabydova\dist\benefits-dt@2x.10052104.jpg133530703344011102 0
+64C:\Users\OEM\Desktop\novabydova\dist\benefits-dt@2x.10052104.jpg133542252551320322 0
 85C:\Users\OEM\Desktop\novabydova\node_modules\@nodelib\fs.walk\out\providers\sync.d.ts133530057283665257 0
 78C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\svg.js133530057298328392 0
 78C:\Users\OEM\Desktop\novabydova\node_modules\caniuse-lite\data\features\sxg.js133530057298328392 0
@@ -4011,6 +4016,7 @@
 80C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\runtime-js\lib\helpers\node133530057286668038 1
 57C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\hash133530057295991158 1
 66C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\markdown-ansi133530057280510830 1
+56C:\Users\OEM\Desktop\novabydova\dist\Vector.289157fc.svg133542252550802452 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\namer-default133530057280009792 1
 71C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\node-resolver-core133530057291251988 1
 66C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\optimizer-css133530057279533750 1
@@ -4438,7 +4444,7 @@
 87C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\core\test\PublicDependency.test.js133530057292489554 0
 91C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\fs-search\fs-search.linux-x64-gnu.node133530057288834365 0
 92C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\fs-search\fs-search.win32-x64-msvc.node133530057289992780 0
-62C:\Users\OEM\Desktop\novabydova\dist\apartament-2.e9646ee5.jpg133530703344001117 0
+62C:\Users\OEM\Desktop\novabydova\dist\apartament-2.e9646ee5.jpg133542252551209371 0
 71C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\fs-search\index.js133530057279673660 0
 75C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\fs-search\package.json133530057280340597 0
 66C:\Users\OEM\Desktop\novabydova\node_modules\@parcel\fs\index.d.ts133530057285663715 0
@@ -4820,18 +4826,22 @@
 58C:\Users\OEM\Desktop\novabydova\node_modules\.bin\svgo.cmd133530057329890932 0
 60C:\Users\OEM\Desktop\novabydova\node_modules\.bin\terser.cmd133530057329900898 0
 60C:\Users\OEM\Desktop\novabydova\node_modules\.bin\terser.ps1133530057329890932 0
-62C:\Users\OEM\Desktop\novabydova\dist\apartament-1.5e9a2b50.jpg133530703343308103 0
-62C:\Users\OEM\Desktop\novabydova\dist\apartament-3.7f55854d.jpg133530703343308103 0
-64C:\Users\OEM\Desktop\novabydova\dist\benefits-mb@2x.c123ed4d.jpg133530703344011102 0
-61C:\Users\OEM\Desktop\novabydova\dist\benefits-tb.9a62f042.jpg133530703343322673 0
-64C:\Users\OEM\Desktop\novabydova\dist\benefits-tb@2x.ea5c9145.jpg133530703344011102 0
-57C:\Users\OEM\Desktop\novabydova\dist\hero-dt.e8e40aea.jpg133530703343322673 0
-57C:\Users\OEM\Desktop\novabydova\dist\hero-mb.79b73e62.jpg133530703343308103 0
-57C:\Users\OEM\Desktop\novabydova\dist\hero-tb.ba62079b.jpg133530703344011102 0
-58C:\Users\OEM\Desktop\novabydova\dist\index.7afa73b1.js.map133530703344011102 0
-58C:\Users\OEM\Desktop\novabydova\dist\index.975ef6c8.js.map133530703344011102 0
-58C:\Users\OEM\Desktop\novabydova\dist\index.ba4f3a9f.js.map133530703343322673 0
-47C:\Users\OEM\Desktop\novabydova\dist\index.html133530703344167823 0
+62C:\Users\OEM\Desktop\novabydova\dist\apartament-1.5e9a2b50.jpg133542252550937354 0
+62C:\Users\OEM\Desktop\novabydova\dist\apartament-3.7f55854d.jpg133542252550937354 0
+64C:\Users\OEM\Desktop\novabydova\dist\benefits-mb@2x.c123ed4d.jpg133542252551233799 0
+75C:\Users\OEM\Desktop\novabydova\dist\benefits-mb@2x.c123ed4d.jpg.3395796542133542212584952760 0
+61C:\Users\OEM\Desktop\novabydova\dist\benefits-tb.9a62f042.jpg133542252551115361 0
+64C:\Users\OEM\Desktop\novabydova\dist\benefits-tb@2x.ea5c9145.jpg133542252551276746 0
+75C:\Users\OEM\Desktop\novabydova\dist\benefits-tb@2x.ea5c9145.jpg.3496754933133542212584952760 0
+57C:\Users\OEM\Desktop\novabydova\dist\hero-dt.e8e40aea.jpg133542252551151645 0
+57C:\Users\OEM\Desktop\novabydova\dist\hero-mb.79b73e62.jpg133542252550937354 0
+57C:\Users\OEM\Desktop\novabydova\dist\hero-tb.ba62079b.jpg133542252551218414 0
+67C:\Users\OEM\Desktop\novabydova\dist\hero-tb.ba62079b.jpg.812195139133542212584952760 0
+58C:\Users\OEM\Desktop\novabydova\dist\index.7afa73b1.js.map133542252551298185 0
+58C:\Users\OEM\Desktop\novabydova\dist\index.975ef6c8.js.map133542252551320322 0
+58C:\Users\OEM\Desktop\novabydova\dist\index.ba4f3a9f.js.map133542252551151645 0
+47C:\Users\OEM\Desktop\novabydova\dist\index.html133542252550802452 0
+58C:\Users\OEM\Desktop\novabydova\dist\Vector 1.199c78c9.svg133542252551309903 0
 64C:\Users\OEM\Desktop\novabydova\assets\actions-config-step-1.png133528395613861595 0
 64C:\Users\OEM\Desktop\novabydova\assets\actions-config-step-2.png133528395613956797 0
 56C:\Users\OEM\Desktop\novabydova\assets\repo-settings.png133528395613956797 0
