@@ -1,27 +1,27 @@
-.one{
-    background-image:url("../icons/sprite/Vector.svg");
+.one {
+  background-image: url('../icons/sprite/Vector.svg');
 }
-.two{
-    background-image: url("/src/icons/sprite/Vector\ 1.svg");
+.two {
+  background-image: url('/src/icons/sprite/Vector\ 1.svg');
 }
-.carousel-inner.box{
-    margin-left: auto;
-    margin-top: 20px;
-    margin-bottom: 15px;
-    margin-right: auto;
-    }
-.carousel-inner{
-    width: 70%;
+.carousel-inner.box {
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: auto;
 }
-.carousel.slide{
-padding-bottom: 10px;
+.carousel-inner {
+  width: 70%;
 }
-.carousel-indicators{
-    margin-bottom: 0;
+.carousel.slide {
+  padding-bottom: 10px;
 }
-button[data-bs-slide-to] {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: #C4C4C4;
-  }
+.carousel-indicators {
+  margin-bottom: 0;
+}
+.carousel-indicators button[data-bs-slide-to] {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #c4c4c4;
+}
