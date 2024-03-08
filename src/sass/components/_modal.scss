@@ -1,23 +1,27 @@
 .backdrop-contact {
-  transition: opacity 100ms cubic-bezier(0.17, 0.67, 0.69, 0.93) 200ms;
   position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
+
+  transition: opacity 100ms cubic-bezier(0.17, 0.67, 0.69, 0.93) 200ms;
   background-color: #00000033;
 }
 
 .modal-contact {
-  transform: translate(-50%, -50%);
-  transition: opacity 50ms cubic-bezier(0.17, 0.67, 0.69, 0.93) 50ms;
   position: absolute;
   top: 50%;
   left: 50%;
+
   width: 530px;
   height: 624px;
-  background-color: #fff;
   border-radius: 16px;
+
+  background-color: $secondry-color;
+  transform: translate(-50%, -50%);
+  transition: opacity 50ms cubic-bezier(0.17, 0.67, 0.69, 0.93) 50ms;
+
   @media screen and (min-width: 320px) {
     width: 320px;
     height: 519px;
@@ -33,12 +37,17 @@
 }
 
 .modal-close-btn {
-  border: none;
   position: absolute;
   top: 10px;
   right: 10px;
+
+  border: none;
   background-color: #fff;
   cursor: pointer;
+
+  &:hover {
+    fill: #7e6d53;
+  }
 }
 
 .backdrop-contact.is-hidden {
@@ -47,27 +56,28 @@
 }
 
 .modal-title {
+  width: 273px;
+  margin-top: 52px;
+  margin-bottom: 28px;
+  margin-left: 20px;
+  text-align: left;
+
   color: rgb(53, 50, 45);
-  font-family: Montserrat;
-  @media screen and (min-width: 320px) {
-    font-size: 20px;
-    font-weight: 700;
-    line-height: 24px;
-    text-align: left;
-    margin-left: 20px;
-    width: 273px;
-    margin-top: 52px;
-    margin-bottom: 28px;
-  }
+  font-family: $third-family;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+
   @media screen and (min-width: 768px) {
+    width: 410px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    text-align: center;
+
     line-height: 34px;
     font-size: 28px;
     font-weight: 700;
-    margin-top: 60px;
-    text-align: center;
-    margin-bottom: 40px;
-    margin-left: 60px;
-    width: 410px;
   }
   @media screen and (min-width: 1280px) {
     font-size: 32px;
@@ -78,9 +88,11 @@
 .modal-form {
   display: flex;
   flex-direction: column;
+
   @media screen and (min-width: 320px) {
     margin-left: 20px;
   }
+
   @media screen and (min-width: 768px) {
     margin-left: 60px;
   }
@@ -95,16 +107,19 @@
   height: 52px;
   border: 1px solid rgb(58, 54, 49);
   border-radius: 16px;
-  background: rgb(252, 252, 251);
   padding-left: 16px;
+
+  background: rgb(252, 252, 251);
   color: rgb(153, 158, 163);
-  font-family: Montserrat;
+  font-family: $third-family;
   font-size: 16px;
   font-weight: 400;
   line-height: 20px;
+
   @media screen and (min-width: 320px) {
     width: 280px;
     height: 50px;
+
     color: rgb(153, 158, 163);
     line-height: 17px;
     font-size: 14px;
@@ -112,6 +127,7 @@
   @media screen and (min-width: 768px) {
     width: 410px;
     height: 52px;
+
     color: #999ea3;
     font-size: 16px;
     font-weight: 400;
@@ -120,54 +136,71 @@
 }
 
 .label-modal {
-  color: rgb(53, 50, 45);
-  font-family: Montserrat;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 20px;
+  margin-bottom: 8px;
   text-align: left;
-  margin-bottom: 12px;
-  @media screen and (min-width: 320px) {
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 17px;
-    margin-bottom: 8px;
-  }
+
+  color: rgb(53, 50, 45);
+  font-family: $third-family;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+
   @media screen and (min-width: 768px) {
+    margin-bottom: 12px;
+
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
+  }
+
+  @media screen and (min-width: 1280px) {
     margin-bottom: 12px;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+
+  .label-necessarily {
+    color: red;
   }
 }
 
 .send-btn {
   display: block;
+  margin: 30px 64px;
+  width: 192px;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
   border-radius: 8px;
   background: rgb(126, 109, 83);
   border: none;
-  width: 224px;
-  height: 54px;
-  color: rgb(252, 252, 251);
-  font-family: Poppins;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 36px;
-  letter-spacing: 0%;
   text-align: center;
-  margin: 40px 155px;
-  @media screen and (min-width: 320px) {
-    margin: 30px 64px;
-    width: 192px;
-    height: 48px;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-  }
+
+  color: rgb(252, 252, 251);
+  font-family: $font-family;
+  letter-spacing: 0%;
+
+  cursor: pointer;
+  @extend %animation-button;
+
   @media screen and (min-width: 768px) {
     margin: 40px 155px;
     width: 224px;
     height: 54px;
+
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+  }
+
+  @media screen and (min-width: 1280px) {
+    margin: 40px 155px;
+    width: 224px;
+    height: 54px;
+
     font-size: 24px;
     font-weight: 400;
     line-height: 36px;

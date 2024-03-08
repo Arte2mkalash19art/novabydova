@@ -1,5 +1,6 @@
 @import './common';
 @import './utils/typography';
+@import './utils/placeholders';
 @import './utils/variables';
 @import './utils/reset';
 @import './layout/container';
@@ -10,6 +11,6 @@
 @import './components/section-hero';
 @import './components/appart';
 @import './components/modal-flatinfo';
-@import './components/appart';
-@import './components/modal-flatinfo';
+@import './components/contacts';
+@import './components/infrastructure.scss';
 @import './components/gallery';

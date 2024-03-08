@@ -1,51 +1,60 @@
 <div data-backdrop-contact class="backdrop-contact is-hidden">
   <div class="modal-contact">
-    <button class="modal-close-btn">
+    <button type="button" class="modal-close-btn">
       <svg
         data-modal-close-contact
         width="17"
         height="17"
         class="modal-close-btn"
       >
-        <use href="/src/icons/sprite/symbol-defs.svg#icon-close"></use>
+        <use href="icons/sprite/symbol-defs.svg#icon-close"></use>
       </svg>
     </button>
     <form autocomplete="on">
       <p class="modal-title">Leave your contacts and we will contact you</p>
 
       <div class="modal-form">
-        <label class="label-modal" for="name">Name</label>
+        <label class="label-modal" for="name"
+          >Name <span class="label-necessarily">&#42;</span></label
+        >
         <input
           class="input-modal"
           type="text"
           id="name"
           name="name"
           placeholder="Yuliia"
+          required
         />
       </div>
 
       <div class="modal-form">
-        <label class="label-modal" for="phone">Telephone</label>
+        <label class="label-modal" for="phone"
+          >Telephone <span class="label-necessarily">&#42;</span></label
+        >
         <input
           class="input-modal"
           type="phone"
           id="phone"
           name="phone"
           placeholder="+380"
+          required
         />
       </div>
 
       <div class="modal-form">
-        <label class="label-modal" for="email">Email</label>
+        <label class="label-modal" for="email"
+          >Email <span class="label-necessarily">&#42;</span></label
+        >
         <input
           class="input-modal"
           type="email"
           id="email"
           name="email"
           placeholder="Contact@gmail.com"
+          required
         />
       </div>
-      <button class="send-btn">Contact us</button>
+      <button type="button" class="send-btn">Contact us</button>
     </form>
   </div>
 </div>

@@ -1,12 +1,12 @@
 .header {
-  width: 100%;
+  display: flex;
+  padding: 25px 23px;
+  max-width: 100%;
   background: linear-gradient(
     270deg,
     rgb(45, 42, 34) -40.469%,
     rgb(126, 109, 83) 129.687%
   );
-  padding: 25px 23px;
-  display: flex;
   @media screen and (min-width: 768px) {
     padding-top: 33px;
     padding-left: 40px;
@@ -31,29 +31,27 @@
 }
 
 .menu-list {
-  display: block;
+  display: flex;
+  flex-direction: column;
   width: 105px;
   text-align: center;
+  row-gap: 25px;
+
   @media screen and (min-width: 768px) {
-    display: flex;
+    flex-direction: row;
+    align-items: center;
     column-gap: 32px;
   }
+
   @media screen and (min-width: 1280px) {
     column-gap: 48px;
-  }
-}
-
-.menu-item {
-  margin-top: 25px;
-  @media screen and (min-width: 768px) {
-    margin: 0;
-    margin-top: 9px;
   }
 }
 
 .logo {
   text-decoration: none;
   color: #fcfcfb;
+
   @media screen and (min-width: 768px) {
     height: 36px;
     font-size: 17px;
@@ -61,15 +59,14 @@
 }
 
 .menu-link {
-  color: rgb(252, 252, 251);
   font-family: Inter;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
+  color: rgb(252, 252, 251);
 }
 
 .button-header {
-  margin-top: 7px;
   margin-left: auto;
   cursor: pointer;
   @media screen and (min-width: 768px) {
@@ -88,9 +85,10 @@
   border: 1px solid rgb(252, 252, 251);
   background: rgb(46, 43, 35);
   border-radius: 8px;
-  color: rgb(252, 252, 251);
   font-size: 16px;
   line-height: 24px;
+  color: rgb(252, 252, 251);
+  @extend %animation-button;
 }
 
 .open {
@@ -99,13 +97,11 @@
 
 .nav {
   display: flex;
-  width: 700px;
-  padding: 0 40px;
   @media screen and (min-width: 768px) {
-    padding-left: 90px;
+    margin-left: 90px;
   }
   @media screen and (min-width: 1280px) {
-    padding-left: 155px;
+    margin-left: 155px;
   }
 }
 
@@ -116,13 +112,13 @@
 .burger {
   display: none;
   position: relative;
-  z-index: 2;
   align-items: center;
   justify-content: flex-end;
-  width: 18px;
-  height: 16px;
   margin-left: auto;
   margin-top: 9px;
+  width: 18px;
+  height: 16px;
+  z-index: 2;
 }
 
 .burger span {
@@ -164,15 +160,15 @@
 
   .nav {
     display: none;
-    flex-direction: column;
     position: fixed;
+    flex-direction: column;
     align-items: center;
-    height: 100%;
-    width: 100%;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
+    height: 100%;
+    width: 100%;
     z-index: 2;
     overflow-y: auto;
     padding: 80px 110px;
@@ -182,6 +178,7 @@
       rgb(126, 109, 83) 110.238%
     );
     animation: burgerAnimation 0.4s;
+
     @media screen and (min-width: 1600px) {
       display: none;
     }

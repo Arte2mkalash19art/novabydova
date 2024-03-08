@@ -1,0 +1,11 @@
+%animation-button {
+  transition: transform 0.2s ease-in-out; 
+  transform: translateY(0);
+  &:hover{
+    transform: translateY(-5px);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,105 @@
+.contacts {
+  padding: 60px 0;
+  text-align: center;
+  width: 100%;
+  background-color: #ede9e3;
+  @media screen and (min-width: 768px) {
+    padding: 100px 0;
+  }
+}
+
+.contacts-title {
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+  color: $maincolor;
+  @media screen and (min-width: 768px) {
+    font-size: 40px;
+    line-height: 60px;
+  }
+}
+.contacts-text {
+  margin-bottom: 25px;
+  font-size: 20px;
+  line-height: 30px;
+  color: $maincolor;
+  @media screen and (min-width: 768px) {
+    font-size: 24px;
+    line-height: 36px;
+  }
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 20;
+  margin: 0 auto;
+  border-radius: 16px;
+  width: 280px;
+
+  text-align: start;
+  background-color: $maincolor;
+
+  @media screen and (min-width: 768px) {
+    width: 700px;
+    flex-direction: row;
+    gap: 70px;
+    padding: 53px 74;
+  }
+}
+
+.contacts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.contacts-list-item {
+  cursor: pointer;
+}
+
+.contacts-link {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffffa6;
+
+  @media screen and (min-width: 768px) {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+.contacts-icons {
+  width: 24px;
+  height: 24px;
+  fill: #ffffffa6;
+}
+
+.contacts-button {
+  width: 240px;
+  height: 48px;
+  margin-top: 20px;
+  border-radius: 8px;
+
+  font-size: 16px;
+  line-height: 24px;
+  border: none;
+  background-color: #fcfcfb;
+  color: $plimal-color;
+  cursor: pointer;
+  @extend %animation-button;
+
+  @media screen and (min-width: 768px) {
+    width: 224px;
+    height: 54px;
+    margin: 0;
+
+    font-size: 24px;
+    line-height: 36px;
+  }
+}
