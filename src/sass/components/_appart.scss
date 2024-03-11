@@ -8,9 +8,8 @@
 }
 
 .section-title {
-  font-weight: 500;
+  @extend %style-secrion-title;
   font-size: 28px;
-  color: $maincolor;
 
   @media screen and (min-width: 768px) {
     font-size: 40px;

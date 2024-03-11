@@ -1,9 +1,6 @@
 .infrastructure {
-  height: 557px;
+  padding-top: 100px;
   background-color: rgb(237, 233, 227);
-  @media screen and (min-width: 768px) {
-    height: 670px;
-  }
 }
 
 .container-infra {
@@ -16,20 +13,13 @@
   }
 }
 
-.text-infrastructure {
-  padding: 60px 0 24px 20px;
-  color: rgb(126, 109, 83);
-  font-family: Poppins;
-  font-size: 28px;
-  font-weight: 500;
-  line-height: 42px;
+.section-title__padding {
+  margin-left: 20px;
   @media screen and (min-width: 768px) {
-    padding: 100px 0 24px 32px;
-    font-size: 40px;
-    line-height: 60px;
+    margin-left: 32px;
   }
   @media screen and (min-width: 1280px) {
-    padding: 100px 0 20px 68px;
+    margin-left: 0;
   }
 }
 
@@ -40,6 +30,7 @@
   min-width: 320px;
   height: 431px;
   padding: 40px 20px;
+  margin-top: 20px;
 
   background-image: url(../images/mobile/infrastructure-mb.jpg);
   background-repeat: no-repeat;
@@ -50,6 +41,7 @@
     min-width: 768px;
     height: 486px;
     padding: 8px 37px 8px 0;
+    margin: 24px auto 0;
 
     background-image: url(../images/tablet/infrastructure-tb.jpg);
   }
@@ -58,7 +50,6 @@
     min-width: 1144px;
     width: 1144px;
     height: 486px;
-    margin: 0 auto;
 
     background-image: url(../images/dasktop/infrastructure-dt.jpg);
   }

@@ -1,11 +1,16 @@
 %animation-button {
-  transition: transform 0.2s ease-in-out; 
+  transition: transform 0.2s ease-in-out;
   transform: translateY(0);
-  &:hover{
+  &:hover {
     transform: translateY(-5px);
   }
 
   &:active {
     transform: translateY(0);
   }
+}
+
+%style-secrion-title {
+  font-weight: 500;
+  color: #7e6d53;
 }
