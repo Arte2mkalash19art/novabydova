@@ -37,6 +37,8 @@
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
-  width: 1rem;
-  height: 1rem;
+  @media screen and (max-width: 767px) {
+    width: 1rem;
+    height: 1rem;
+  }
 }
