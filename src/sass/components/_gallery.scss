@@ -1,11 +1,10 @@
-.gallery{
+.gallery {
   padding-top: 60px;
 }
-.title-gallery{
-
-font-weight: 500;
-font-size: 40px;
-color: #7e6d53;
+.title-gallery {
+  font-weight: 500;
+  font-size: 40px;
+  color: #7e6d53;
 }
 .one {
   background-image: url('../icons/sprite/Vector.svg');
@@ -34,4 +33,10 @@ color: #7e6d53;
   height: 10px;
   border-radius: 50%;
   background-color: #c4c4c4;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  width: 1rem;
+  height: 1rem;
 }
