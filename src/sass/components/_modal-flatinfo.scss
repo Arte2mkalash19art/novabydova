@@ -28,16 +28,17 @@
 
   @media screen and (min-width: 768px) {
     width: 571px;
-    height: 375px;
+    height: 380px;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     /* box-shadow: 0 0 60px 60px rgba(0, 0, 0, 0.2); */
   }
 
-  .modal-content {
+  .modal-content_apart {
     margin: 0 auto;
     max-width: 240px;
+    border: none;
 
     @media screen and (min-width: 768px) {
       display: flex;
