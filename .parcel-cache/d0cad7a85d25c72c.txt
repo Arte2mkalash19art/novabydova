@@ -101,7 +101,7 @@
 62D:\It\novabydova\node_modules\css-what\lib\commonjs\index.d.ts133512021264640788 0
 70D:\It\novabydova\node_modules\type-fest\source\fixed-length-array.d.ts133512021264050282 0
 70D:\It\novabydova\node_modules\@parcel\reporter-cli\src\bundleReport.js133512021257841165 0
-21D:\It\novabydova\dist133548173471500298 1
+21D:\It\novabydova\dist133548177831126517 1
 48D:\It\novabydova\node_modules\@parcel\utils\test133512021275922907 1
 51D:\It\novabydova\src\sass\components\_contacts.scss133546570826281645 0
 75D:\It\novabydova\node_modules\dom-serializer\node_modules\entities\lib\maps133512021262376298 1
@@ -211,7 +211,7 @@
 53D:\It\novabydova\node_modules\mdn-data\css\types.json133512021266433523 0
 42D:\It\novabydova\node_modules\import-fresh133512021258126852 1
 67D:\It\novabydova\node_modules\postcss-value-parser\lib\stringify.js133512021257749710 0
-57D:\It\novabydova\src\sass\components\_modal-flatinfo.scss133548172548861323 0
+57D:\It\novabydova\src\sass\components\_modal-flatinfo.scss133548177764044006 0
 40D:\It\novabydova\node_modules\domhandler133512021260240126 1
 72D:\It\novabydova\node_modules\caniuse-lite\data\features\css-counters.js133512021272691577 0
 60D:\It\novabydova\node_modules\@parcel\runtime-js\src\helpers133512021269479870 1
@@ -4844,8 +4844,8 @@
 39D:\It\novabydova\dist\index.7afa73b1.js133548167631172218 0
 43D:\It\novabydova\dist\index.7afa73b1.js.map133548167631312187 0
 43D:\It\novabydova\dist\index.975ef6c8.js.map133548167631352189 0
-40D:\It\novabydova\dist\index.b07a87f3.css133548172550998450 0
-44D:\It\novabydova\dist\index.b07a87f3.css.map133548172551003799 0
+40D:\It\novabydova\dist\index.b07a87f3.css133548177831036514 0
+44D:\It\novabydova\dist\index.b07a87f3.css.map133548177831086531 0
 39D:\It\novabydova\dist\index.ba4f3a9f.js133548167632302190 0
 32D:\It\novabydova\dist\index.html133548173471490282 0
 52D:\It\novabydova\dist\infrastructure-dt.72c7ea41.jpg133548167632332169 0
